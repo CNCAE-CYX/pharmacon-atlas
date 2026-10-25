@@ -1,0 +1,96 @@
+[
+  {
+    "id": "m2-q1",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理+实验期中.txt》·填空",
+    "chapterId": "ch10",
+    "pointId": "ch10-p2",
+    "prompt": "传出神经系统两种主要的神经递质是______和______。",
+    "answer": "乙酰胆碱（ACh）和去甲肾上腺素（NA/NE）",
+    "accepted": ["乙酰胆碱去甲肾上腺素", "AChNA", "AChNE", "乙酰胆碱NA", "乙酰胆碱NE"],
+    "explanation": "全部自主节前、副交感节后和运动神经主要涉及ACh，多数交感节后主要释放NA。"
+  },
+  {
+    "id": "m2-q2",
+    "type": "short",
+    "origin": "past",
+    "source": "《药理21期中.docx》21级期中·简答",
+    "chapterId": "ch11",
+    "pointId": "ch11-p2",
+    "prompt": "简述毛果芸香碱的药理作用和临床应用。",
+    "answer": "毛果芸香碱选择性激动M受体。对眼：缩瞳、降低眼内压、调节痉挛；对腺体：尤其汗腺和唾液腺分泌增加；还可增强胃肠蠕动、收缩支气管。临床主要用于青光眼，也可用于对抗扩瞳及虹膜炎相关处理。",
+    "rubric": ["M受体激动", "对眼三项作用", "腺体/平滑肌作用", "青光眼等用途"]
+  },
+  {
+    "id": "m2-q3",
+    "type": "term",
+    "origin": "past",
+    "source": "《药理21期中.docx》21级期中·名词解释",
+    "chapterId": "ch11",
+    "pointId": "ch11-p2",
+    "prompt": "名词解释：调节痉挛",
+    "answer": "毛果芸香碱等激动睫状肌M受体，使睫状肌收缩、悬韧带松弛、晶状体变凸，眼处于视近物的调节状态，称调节痉挛。",
+    "rubric": ["睫状肌收缩", "悬韧带松弛、晶状体变凸", "与毛果芸香碱/M激动相关"]
+  },
+  {
+    "id": "m2-q4",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理21期中.docx》21级期中·填空",
+    "chapterId": "ch13",
+    "pointId": "ch13-p1",
+    "prompt": "儿茶酚胺类物质包括______、______和______。",
+    "answer": "肾上腺素、去甲肾上腺素、多巴胺",
+    "accepted": ["肾上腺素去甲肾上腺素多巴胺", "AdrNADA", "ADRNADA", "肾上腺素NA多巴胺"],
+    "explanation": "三种经典内源性儿茶酚胺的受体谱不同，是后续比较药理作用的基础。"
+  },
+  {
+    "id": "m2-q5",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《11 拟胆碱药-学生版.pptx》第18页",
+    "chapterId": "ch11",
+    "pointId": "ch11-p3",
+    "prompt": "下列哪种情况最适合用新斯的明发挥其药理作用？",
+    "options": ["A. 重症肌无力", "B. 机械性肠梗阻", "C. 支气管哮喘急性痉挛", "D. 去极化型肌松药常规解救"],
+    "answer": "A",
+    "explanation": "新斯的明抑制AChE并直接作用运动终板N2受体，重症肌无力是代表用途；其余为禁忌或不适合。"
+  },
+  {
+    "id": "m2-q6",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《12 抗胆碱药 - 学生版.pptx》第6—7页",
+    "chapterId": "ch12",
+    "pointId": "ch12-p2",
+    "prompt": "阿托品对眼的作用是下列哪一组？",
+    "options": ["A. 缩瞳、降低眼压、调节痉挛", "B. 散瞳、升高眼压、调节麻痹", "C. 散瞳、降低眼压、调节痉挛", "D. 缩瞳、升高眼压、调节麻痹"],
+    "answer": "B",
+    "explanation": "阿托品阻断M受体，对眼作用与毛果芸香碱相反。"
+  },
+  {
+    "id": "m2-q7",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《13 肾上腺素受体激动剂-学生版.pptx》第11页",
+    "chapterId": "ch13",
+    "pointId": "ch13-p5",
+    "prompt": "多巴胺剂量逐渐增加时，较符合课件的主导受体顺序是？",
+    "options": ["A. α1→β1→D1", "B. D1→β1→α1", "C. β2→α2→M2", "D. D2→β2→α2"],
+    "answer": "B",
+    "explanation": "低剂量D1扩肾血管，较高剂量β1强心，高剂量α1缩血管。"
+  },
+  {
+    "id": "m2-q8",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《14 肾上腺素阻断药 -学生版本.pptx》第8页",
+    "chapterId": "ch14",
+    "pointId": "ch14-p2",
+    "prompt": "普萘洛尔诱发或加重支气管痉挛，主要与阻断哪种受体有关？",
+    "options": ["A. β1", "B. β2", "C. α1", "D. M2"],
+    "answer": "B",
+    "explanation": "普萘洛尔为非选择性β阻断药，β2阻断可使支气管阻力增加。"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "m6-q1",
+    "type": "short",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·大题",
+    "chapterId": "ch21",
+    "pointId": "ch21-p1",
+    "prompt": "比较高中低效利尿药的作用部位、靶点、机制与代表药。",
+    "answer": "高效：呋塞米，作用髓袢升支粗段，抑制Na⁺-K⁺-2Cl⁻共转运，同时影响尿稀释和浓缩。中效：氢氯噻嗪，作用远曲小管近端，抑制Na⁺-Cl⁻共转运，主要影响稀释。低效：螺内酯，作用远曲小管和集合管，竞争醛固酮受体，排钠保钾；也可举阿米洛利阻断ENaC或乙酰唑胺抑制近曲小管碳酸酐酶。",
+    "rubric": ["三档强度", "正确部位", "正确靶点", "代表药及保排钾特点"]
+  },
+  {
+    "id": "m6-q2",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理往年考题.docx》08级药理试题·填空",
+    "chapterId": "ch21",
+    "pointId": "ch21-p6",
+    "prompt": "肝素的抗凝机制是激活/增强______的作用；香豆素类的抗凝机制是对抗______的作用。",
+    "answer": "抗凝血酶Ⅲ（ATⅢ）；维生素K",
+    "keywords": ["抗凝血酶", "维生素K"],
+    "explanation": "肝素通过ATⅢ加速凝血因子灭活，华法林等香豆素类拮抗维生素K。"
+  },
+  {
+    "id": "m6-q3",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理往年考题.docx》08级药理试题·填空",
+    "chapterId": "ch21",
+    "pointId": "ch21-p2",
+    "prompt": "造成低血钾的利尿药可列举______和______。",
+    "answer": "呋塞米、氢氯噻嗪（或其他袢利尿药和噻嗪类）",
+    "keywords": ["呋塞米", "噻嗪"],
+    "explanation": "袢利尿药和噻嗪类均增加K⁺排泄；螺内酯则是保钾利尿药。"
+  },
+  {
+    "id": "m6-q4",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理往年考题.docx》03级药理考题·填空",
+    "chapterId": "ch21",
+    "pointId": "ch21-p5",
+    "prompt": "巨幼红细胞贫血可用______和______进行补充治疗。",
+    "answer": "叶酸、维生素B12（需依据病因选择）",
+    "keywords": ["叶酸", "B12"],
+    "explanation": "二者参与DNA合成；B12缺乏还会产生神经损害，需明确病因。"
+  },
+  {
+    "id": "m6-q5",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《21 利尿药及血液系统药物.pdf》第50页",
+    "chapterId": "ch21",
+    "pointId": "ch21-p2",
+    "prompt": "呋塞米的直接作用靶点是？",
+    "options": ["A. 远曲小管Na⁺-Cl⁻共转运体", "B. 髓袢升支粗段Na⁺-K⁺-2Cl⁻共转运体", "C. 集合管醛固酮受体", "D. 近曲小管SGLT2"],
+    "answer": "B",
+    "explanation": "呋塞米是高效袢利尿药，抑制NKCC2并同时影响尿稀释和浓缩。"
+  },
+  {
+    "id": "m6-q6",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《21 利尿药及血液系统药物.pdf》第50、53页",
+    "chapterId": "ch21",
+    "pointId": "ch21-p3",
+    "prompt": "关于呋塞米与氢氯噻嗪对Ca²⁺排泄的影响，正确的是？",
+    "options": ["A. 两者均必然减少Ca²⁺排泄", "B. 呋塞米增加Ca²⁺排泄，噻嗪类减少尿Ca²⁺", "C. 呋塞米减少尿Ca²⁺，噻嗪类增加", "D. 两者对Ca²⁺均无影响"],
+    "answer": "B",
+    "explanation": "这是两类利尿药除作用部位外的重要对比点。"
+  },
+  {
+    "id": "m6-q7",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《21 利尿药及血液系统药物.pdf》第56页",
+    "chapterId": "ch21",
+    "pointId": "ch21-p4",
+    "prompt": "螺内酯最需要警惕的电解质紊乱是？",
+    "options": ["A. 高血钾", "B. 低血钾", "C. 高血钠必然出现", "D. 低血钙必然出现"],
+    "answer": "A",
+    "explanation": "螺内酯拮抗醛固酮、排钠保钾，与ACEI/ARB合用时高钾风险更需关注。"
+  },
+  {
+    "id": "m6-q8",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《21 利尿药及血液系统药物.pdf》第82、87页",
+    "chapterId": "ch21",
+    "pointId": "ch21-p6",
+    "prompt": "下列“药物过量—解救”配对正确的是？",
+    "options": ["A. 肝素—鱼精蛋白；华法林—维生素K", "B. 肝素—维生素K；华法林—鱼精蛋白", "C. 肝素—纳洛酮；华法林—氟马西尼", "D. 肝素—阿托品；华法林—钙剂"],
+    "answer": "A",
+    "explanation": "鱼精蛋白与肝素形成复合物使其失活，维生素K可拮抗华法林过量。"
+  }
+]

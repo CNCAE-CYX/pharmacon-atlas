@@ -1,0 +1,95 @@
+[
+  {
+    "id": "m8-q1",
+    "type": "short",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·大题",
+    "chapterId": "ch23",
+    "pointId": "ch23-p6",
+    "prompt": "列举四种癌症靶向药物，并写出靶点和作用机制。",
+    "answer": "示例：①伊马替尼—Bcr-Abl—抑制异常酪氨酸激酶信号；②吉非替尼—EGFR—抑制受体酪氨酸激酶ATP结合位点及下游增殖信号；③贝伐单抗—VEGF-A—阻断血管生成；④奥拉帕利—PARP—抑制DNA单链损伤修复，在修复缺陷肿瘤中产生合成致死。也可写拉帕替尼—HER2/EGFR、康奈非尼—B-Raf、维奈克拉—Bcl-2等。",
+    "rubric": ["至少四种", "药物与靶点一一对应", "机制方向", "不把配体与受体混写"]
+  },
+  {
+    "id": "m8-q2",
+    "type": "fill",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·填空",
+    "chapterId": "ch23",
+    "pointId": "ch23-p5",
+    "prompt": "紫杉醇的抗肿瘤机制是抑制微管______，使微管过度稳定，从而阻断细胞______。",
+    "answer": "解聚；有丝分裂（M期）",
+    "keywords": ["解聚", "有丝分裂"],
+    "explanation": "紫杉醇“稳定微管、不让拆”，与长春碱类抑制聚合的方向相反。"
+  },
+  {
+    "id": "m8-q3",
+    "type": "term",
+    "origin": "past",
+    "source": "《药理往年考题.docx》04期末·名词解释",
+    "chapterId": "ch23",
+    "pointId": "ch23-p2",
+    "prompt": "名词解释：细胞周期特异性药（cell cycle-specific agents，CCSA）",
+    "answer": "主要在细胞周期的某一或某些特定阶段发挥明显杀伤作用的抗肿瘤药，例如干扰S期核酸合成或M期微管动态的药物；其疗效与细胞所处周期和给药时序密切相关。",
+    "rubric": ["特定周期阶段", "作用具有周期依赖性", "可举S期或M期例子"]
+  },
+  {
+    "id": "m8-q4",
+    "type": "short",
+    "origin": "past",
+    "source": "《药理往年考题.docx》药学院2006级长学制药理考题·简答",
+    "chapterId": "ch23",
+    "pointId": "ch23-p7",
+    "prompt": "抗恶性肿瘤药有哪些共同不良反应？你认为新一代抗恶性肿瘤药应具有哪些特点？",
+    "answer": "共同不良反应包括骨髓抑制和免疫抑制、贫血、恶心呕吐及胃肠黏膜损伤、脱发等，根源是正常快速分裂组织也受损。新一代药物应提高肿瘤/靶点选择性、降低正常组织毒性，尽量克服或延缓耐药，具有合适PK和可预测相互作用，并可依据生物标志物实现患者分层；联合时兼顾协同增效与毒性可控。",
+    "rubric": ["骨髓/免疫", "胃肠与脱发", "提高选择性", "降低耐药、优化PK与精准分层"]
+  },
+  {
+    "id": "m8-q5",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《23 抗癌.pdf》第93页",
+    "chapterId": "ch23",
+    "pointId": "ch23-p6",
+    "prompt": "伊马替尼治疗慢性髓性白血病的关键靶点是？",
+    "options": ["A. Bcr-Abl融合蛋白", "B. VEGF-A", "C. Bcl-2", "D. DHFR"],
+    "answer": "A",
+    "explanation": "伊马替尼结合Abl相关位点并抑制Bcr-Abl异常酪氨酸激酶信号。"
+  },
+  {
+    "id": "m8-q6",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《23 抗癌.pdf》第70页",
+    "chapterId": "ch23",
+    "pointId": "ch23-p3",
+    "prompt": "5-氟尿嘧啶（5-FU）与甲氨蝶呤（MTX）的靶点配对正确的是？",
+    "options": ["A. 5-FU—TS；MTX—DHFR", "B. 5-FU—DHFR；MTX—TS", "C. 5-FU—Bcl-2；MTX—PARP", "D. 5-FU—EGFR；MTX—VEGF"],
+    "answer": "A",
+    "explanation": "5-FU抑制胸苷酸合成酶，MTX抑制二氢叶酸还原酶。"
+  },
+  {
+    "id": "m8-q7",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《23 抗癌.pdf》第81、83页",
+    "chapterId": "ch23",
+    "pointId": "ch23-p5",
+    "prompt": "紫杉醇与长春新碱对微管的作用差异是？",
+    "options": ["A. 两者均只促进微管解聚", "B. 紫杉醇抑制解聚，长春新碱抑制聚合", "C. 紫杉醇抑制聚合，长春新碱抑制解聚", "D. 两者均不影响M期"],
+    "answer": "B",
+    "explanation": "一个“过度稳定”，一个“装配受阻”，但均破坏微管动态并抑制有丝分裂。"
+  },
+  {
+    "id": "m8-q8",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《23 抗癌.pdf》第101页",
+    "chapterId": "ch23",
+    "pointId": "ch23-p7",
+    "prompt": "奥拉帕利发挥抗肿瘤作用的主要靶点与过程是？",
+    "options": ["A. PARP与DNA修复", "B. Bcl-2与抗凋亡", "C. VEGF-A与血管生成", "D. M2通道与病毒脱壳"],
+    "answer": "A",
+    "explanation": "奥拉帕利抑制PARP相关DNA修复，可在特定修复缺陷背景下形成合成致死。"
+  }
+]

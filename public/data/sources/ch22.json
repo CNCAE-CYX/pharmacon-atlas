@@ -1,0 +1,473 @@
+{
+  "chapterId": "ch22",
+  "originalFile": "22 抗感染.pdf",
+  "sourceType": "pdf",
+  "pageCount": 201,
+  "pages": [
+    {
+      "page": 18,
+      "text": "Antibacterial agents\n❖ Preservative (防腐剂): add into\nproducts to prevent microbes growth\n(formalin, antioxidants, potassium\nsorbate, sodium benzoate ……).\n❖ Disinfectants (消毒剂): non-\nselectively kill microbes on non-\nliving surfaces (Cl , O , bleach……).\n2 3\n❖ Antiseptics (抗菌剂): apply to\ntissue and reduce infection non-\nselectively (ethanol, phenol,\npovidone-iodine, peroxides……).\n❖ Antibiotics (抗生素): selectively\ndestroy microbes within the body.\nhttps://www.nfid.org",
+      "image": "sources/ch22/p018.webp"
+    },
+    {
+      "page": 21,
+      "text": "Antibiotics vs pathogens vs human\nHuman\nAntibacterial activity\nAntibiotics Pathogens\nResistance\n❖ Therapeutic index: the safety of a drug (e.g., LD /ED , LD /ED ).\n50 50 5 95\n❖ First-exposure effect (FEE) & Post-antibiotic effect (PAE): two\nconcepts of antimicrobial pharmacodynamics.",
+      "image": "sources/ch22/p021.webp"
+    },
+    {
+      "page": 22,
+      "text": "Classification of antibiotics\n❖ By usage: restricted, non-restricted……\n考\n❖ By chemical structure: β-lactams, sulfonamides……\n❖ By administration: injection, oral……\n❖ Gustilo-Anderson classification: the mechanism of injury.\n❖ Bactericidal agents (杀菌剂) vs bacteriostatic agents (抑菌剂):\nNumber\nCtrl\nBacteriostatic\nBactericidal\nTime",
+      "image": "sources/ch22/p022.webp"
+    },
+    {
+      "page": 25,
+      "text": "Classification of antibiotics\n❖ By antimicrobial spectrum:\n考\n❑ Broad-spectrum: a wide range (Doxycycline, Ciprofloxacin);\n❑ Narrow-spectrum: limited species (Penicillin G, Vancomycin);\n❑ (Extended-spectrum penicillins).\nhttps://wikipedia.org",
+      "image": "sources/ch22/p025.webp"
+    },
+    {
+      "page": 26,
+      "text": "Classification of antibiotics\n❖ By mechanism of actions (MOAs):\n考\n❑ Targeting cell wall;\n❑ Targeting membrane;\n❑ Targeting ribosomes;\n❑ Targeting DNA or RNA;\n❑ Targeting key metabolism pathways.\nhttps://www.sciencefacts.net",
+      "image": "sources/ch22/p026.webp"
+    },
+    {
+      "page": 28,
+      "text": "CW is composed by peptidoglycan (肽聚糖)\n❖ G+: 20 ~ 80 nm, 40 ~ 90% dry weight;\n考\n❖ G-: 7 ~ 8 nm, ~ 10% dry weight.\nN-乙酰葡萄糖胺\n(MurNAc)\nN-乙酰胞壁酸\nhttps://www.creative-proteomics.com (adapted)",
+      "image": "sources/ch22/p028.webp"
+    },
+    {
+      "page": 29,
+      "text": "Cell wall is composed by peptidoglycan\n❖ Peptidoglycan organization:\nhttps://microbenotes.com\nhttps://glycopedia.eu Nature, 2020, 582",
+      "image": "sources/ch22/p029.webp"
+    },
+    {
+      "page": 30,
+      "text": "Peptidoglycan synthesis and recycling\n❖ Involving multiple steps and enzymes:\nPlant. Mol. Biol., 2021, 107",
+      "image": "sources/ch22/p030.webp"
+    },
+    {
+      "page": 31,
+      "text": "PBPs (penicillin binding proteins)\n❖ PBP DD-transpeptidase (TPase) cross-links the peptide subunits:\n考\nCredit @ Wikipedia",
+      "image": "sources/ch22/p031.webp"
+    },
+    {
+      "page": 32,
+      "text": "MOAs of penicillin\n❖ Penicillin is a β-lactam antibiotic that inhibits PBP-TPase:\n考\nhttps://microbenotes.com\nβ-lactam",
+      "image": "sources/ch22/p032.webp"
+    },
+    {
+      "page": 33,
+      "text": "MOAs of penicillin\n❖ Penicillin kills bacteria in growth stage (bactericidal agents):\n考\nhttps://www.hhmi.org\nhttps://www.medgif.com",
+      "image": "sources/ch22/p033.webp"
+    },
+    {
+      "page": 34,
+      "text": "Problems of penicillin\n❖ Chemistry: very unstable core structure → Cephalosporins.\n考\n❖ Pharmacokinetics:\n❑ Short half-life (kidney excretion) → modification;\n❑ Hard to penetrate blood–brain barrier (BBB) → modification.\n❖ Bacteria:\n❑ Easy to generate resistance → modification;\n❑ Narrow spectrum → modification & combination.\n❖ Side effects:\n❑ High-dose responses;\n❑ Cross-reactions;\n❑ Allergies (by penicillin metabolites)\n→ skin test.\nhttps://www.wbur.org",
+      "image": "sources/ch22/p034.webp"
+    },
+    {
+      "page": 36,
+      "text": "Cephalosporins 头孢菌素\n❖ Cephalosporin C was isolated from Acremonium strictum.\n考\nPenicillium moulds Penicillin\nAcremonium strictum Cephalosporin",
+      "image": "sources/ch22/p036.webp"
+    },
+    {
+      "page": 37,
+      "text": "Five generations of cephalosporins\nMol. Divers., 2023",
+      "image": "sources/ch22/p037.webp"
+    },
+    {
+      "page": 38,
+      "text": "Five generations of cephalosporins\n❖ According to spectrum of activity:\nhttps://www.grepmed.com\nQ4: Why “头孢就酒，说走就走”?",
+      "image": "sources/ch22/p038.webp"
+    },
+    {
+      "page": 43,
+      "text": "Glycopeptide (糖肽类) antibiotics\n❖ Vancomycin (万古霉素) – last effective line of defense.\n❖ Glycopeptide antibiotic: 7 AAs, 2 sugars, 3 rings.\n7\n5\n3\n3\n1\n6\n2\n1\n2\n4\n1\n2",
+      "image": "sources/ch22/p043.webp"
+    },
+    {
+      "page": 44,
+      "text": "MOAs of Vancomycin\n❖ Interacts with D-Ala-D-Ala that inhibits TGase:\n考\n❖ Only for G+: LPS acts as a barrier to vancomycin penetration.\nAntimicrob. Agents Chemother., 1990, 34(7)",
+      "image": "sources/ch22/p044.webp"
+    },
+    {
+      "page": 55,
+      "text": "Bacterial membrane vs eukaryotic membrane\n❖ Differ with lipid compositions:\nFront. Ecol. Evol., 2024, 12",
+      "image": "sources/ch22/p055.webp"
+    },
+    {
+      "page": 56,
+      "text": "Bacterial membrane vs eukaryotic membrane\n❖ Differ with lipid compositions: Lipopolysaccharide (LPS)\n考\nZwitterionic\noutside\ninside\nBacterial outer membrane\noutside\nAcidic\ninside\noutside\ninside\nSteroids",
+      "image": "sources/ch22/p056.webp"
+    },
+    {
+      "page": 57,
+      "text": "Lipopeptide (脂肽类) antibiotics\n❖ Daptomycin 达托霉素:\n考\n❑ The first FDA approved lipopeptide antibiotics;\n❑ For G+ bacteria;\n❑ Dependent on Ca2+ and phosphatidylglycerol (PG);\n❑ Pore-forming, lipid extraction, and blocking cell wall synthesis;\n❑ High side-effects, low resistance.\n(adapted) Cold Spring Harb. Perspect. Med., 2016, 6(11)",
+      "image": "sources/ch22/p057.webp"
+    },
+    {
+      "page": 58,
+      "text": "Lipopeptide (脂肽类) antibiotics\n❖ Polymyxin 多粘菌素:\n考\n❑ For G- bacteria;\n❑ Binds to lipopolysaccharide (LPS);\n❑ Disruption to both OM and CM;\n❑ High side-effects (neurotoxic and nephrotoxic), low resistance.\nJ. Antibiot. (Tokyo), 2022, 75(11)",
+      "image": "sources/ch22/p058.webp"
+    },
+    {
+      "page": 60,
+      "text": "Types of antibiotics that easy to confuse\n考\nType Example Target Function\nGlycolipid Moenomycin TGase Inhibit PG synthesis\nGlycopeptide Vancomycin D-Ala-D-Ala Inhibit PG synthesis\nDaptomycin PG on CM Pore-forming\nLipopeptide Polymyxin LPS on OM Pore-forming\nFriulimicin B C -P Inhibit PG synthesis\n55\nLipoglycodepsipeptide Ramoplanin Lipid I Inhibit PG synthesis\nLantibiotics type A CM Pore-forming\nPolycyclicpeptide Lantibiotics type B Lipid II Inhibit PG synthesis\nBacitracin C -PP Inhibit PG synthesis\n55\nUridylpeptide Pacidamycin MraY Inhibit PG synthesis\nUridylglycolipid Tunicamycin MraY Inhibit PG synthesis",
+      "image": "sources/ch22/p060.webp"
+    },
+    {
+      "page": 62,
+      "text": "Protein biosynthesis: Translation\nFrom Mr. W's Rock Music Video",
+      "image": "sources/ch22/p062.webp"
+    },
+    {
+      "page": 63,
+      "text": "Protein biosynthesis: “I – E – T”\n1) Initiation\n2) Elongation\nE P A\n3) Termination\nhttps://microbenotes.com",
+      "image": "sources/ch22/p063.webp"
+    },
+    {
+      "page": 64,
+      "text": "Bacterial ribosome vs eukaryotic ribosome\n❖ Eukaryotic ribosomes are much larger and more complex:\nhttps://socratic.org",
+      "image": "sources/ch22/p064.webp"
+    },
+    {
+      "page": 65,
+      "text": "30S inhibitors\n❖ Aminoglycosides 氨基糖苷类:\n考\n❑ Usually interact with A site and P site;\n❑ Inhibit I, E, T;\n❑ Broad spectrum (mainly G-), high side-effect, high resistance.\n(adapted) Cell Rep., 2013, 2(3) (adapted) https://basicmedicalkey.com",
+      "image": "sources/ch22/p065.webp"
+    },
+    {
+      "page": 66,
+      "text": "30S inhibitors\n❖ Aminoglycosides:\n考\nGentamicin 庆大霉素\nApramycin\n阿帕霉素\nKanamycin A Streptomycin\n卡纳霉素A 链霉素\nHygromycin B 潮霉素B\nAmikacin 阿米卡星\nNeomycin E\n新霉素E",
+      "image": "sources/ch22/p066.webp"
+    },
+    {
+      "page": 68,
+      "text": "30S inhibitors\n❖ Tetracyclines 四环素类:\n考\n❑ Bind to A site;\n❑ Mainly inhibit E;\n❑ Broad spectrum, bacteriostatic, high side-effect (teeth discoloration).\nBiol. Chem., 2014, 395(5)",
+      "image": "sources/ch22/p068.webp"
+    },
+    {
+      "page": 69,
+      "text": "30S inhibitors - summary\n❖ 30S inhibitors bind to different sites:\n考\nNat Rev Microbiol., 2014, 12(1)\nAminocyclitols\n氨基环醇类\n结合P，抑制E\nTetracyclines\n四环素类\nAminoglycosides\n结合A，抑制E\n氨基糖苷类\n结合A、P\nTet (tetracycline), Spt (spectinomycin), Ksg1 and Ksg2 (kasugamycin);\nPct (pactamycin); Ede (edeine); HygB (hygromycin B); Neo (neomycin);\n抑制I、E、T\nStr (streptomycin); Thb (thermorubin); Tub (tuberactinomycins)",
+      "image": "sources/ch22/p069.webp"
+    },
+    {
+      "page": 70,
+      "text": "50S inhibitors\n❖ Macrolides 大环内酯类:\n考\n❑ Bind to peptidyltransferase centre (PTC), inhibit peptidyltransferase;\n❑ Inhibit E;\n❑ Broad or narrow spectrum, fast, bacteriostatic.\nAnnu. Rev. Biochem., 2005, 74",
+      "image": "sources/ch22/p070.webp"
+    },
+    {
+      "page": 71,
+      "text": "50S inhibitors\n❖ Macrolides 大环内酯类:\n考\nErythromycin 红霉素 (14) Clarithromycin 克拉霉素 (14)\nAzithromycin 阿奇霉素 (15) Carbomycin 卡博霉素 (16)",
+      "image": "sources/ch22/p071.webp"
+    },
+    {
+      "page": 72,
+      "text": "50S inhibitors\n❖ Lincosamides 林可酰胺类:\n考\n❑ Bind to PTC and inhibit peptidyltransferase;\n❑ Inhibit E;\n❑ Narrow spectrum (for G+), bacteriostatic, oral, low side-effect.\nLincomycin 林可霉素\nClindamycin 克林霉素\nBiol. Chem., 2006, 386(12)",
+      "image": "sources/ch22/p072.webp"
+    },
+    {
+      "page": 73,
+      "text": "50S inhibitors\n❖ Amphenicols 酰胺醇类:\n考\n❑ Bind to PTC and block substrate binding;\n❑ Inhibit E;\n❑ Broad spectrum, bacteriostatic, high side-effect.\nChloramphenicol 氯霉素\nThiamphenicol 甲砜霉素\nJ. Mol. Biol., 2018, 430(6)",
+      "image": "sources/ch22/p073.webp"
+    },
+    {
+      "page": 77,
+      "text": "50S inhibitors\n❖ Oxazolidones 噁唑烷酮类:\n考\n❑ Bind to PTC;\n❑ Block 70S initiation complex formation;\n❑ Broad spectrum (for G+), oral delivery, bacteriostatic.\nLinezolid 利奈唑胺\nEperezolid 依培唑胺\nhttps://www.chm.bris.ac.uk",
+      "image": "sources/ch22/p077.webp"
+    },
+    {
+      "page": 78,
+      "text": "50S inhibitors - summary\n❖ 50S inhibitors mainly bind to PTC:\n考\n❑ Macrolides 大环内酯类；\n❑ Lincosamides 林可酰胺类；\n❑ Amphenicols 酰胺醇类；\n❑ Pleuromutilins 截短侧耳素类；\n❑ Nucleotide analogues 核苷类似物；\n❑ Streptogramins 链阳霉素类；\n❑ Oxazolidones 噁唑烷酮类。\nNat Rev Microbiol., 2014, 12(1)\nBls1 and Bls2 (blasticidin S); Spr (sparsomycin); Lin (lincomycin);\nLnz (linezolid); Mac (macrolides); Pmn (puromycin); Plu (pleuromutilins);\nCam (chloramphenicol); S and S (streptogramins A and B)\nA B",
+      "image": "sources/ch22/p078.webp"
+    },
+    {
+      "page": 84,
+      "text": "Bacterial DNA vs eukaryotic DNA\n考\nhttps://www.quora.com\nType Prokaryote Eukaryote\nNuclear envelope No Yes\nShape Circular Linear\nDNA molecules Genome + plasmid Genome\nChromosome Simple Complexed\nGenes Less More\nComplexity Low High (intron + exon)\nNucleotide More A-T More G-C\nRelated enzymes Unique Unique",
+      "image": "sources/ch22/p084.webp"
+    },
+    {
+      "page": 85,
+      "text": "Targeting DNA\n❖ Nitrofurans 硝基呋喃 (e.g., Nitrofurantoin 呋喃妥因):\n考\n❑ Radical anion (multiple functions including DNA damage);\n❑ For UTI (well concentrated in the urine).\n❖ Nitroimidazoles 硝基咪唑 (e.g., Metronidazole 甲硝唑):\n❑ Radical anion (multiple functions including DNA damage);\n❑ For Anaerobic bacteria (easy reduction).\nNitrofurantoin Metronidazole\n(adapted) Res. Microbiol., 2022, 173(1)",
+      "image": "sources/ch22/p085.webp"
+    },
+    {
+      "page": 86,
+      "text": "Targeting enzymes\n❖ Quinolones 喹诺酮类:\n考\n❑ Broad spectrum, low side-effect (tendon damage);\n❑ Generations (x4): QN → FQN → “-floxacin”.\nNorfloxacin 诺氟沙星 (G2) Ciprofloxacin 环丙沙星 (G2)\nLevofloxacin 左氧氟沙星 (G3) Moxifloxacin 莫西沙星 (G4)",
+      "image": "sources/ch22/p086.webp"
+    },
+    {
+      "page": 87,
+      "text": "Targeting enzymes\n❖ Quinolones 喹诺酮类:\n考\n❑ Inhibit gyrase (解旋酶) and topoisomerase IV (拓扑异构酶IV)；\n❑ Prokaryote specific.\nPharmaceutics, 2022, 14(8)",
+      "image": "sources/ch22/p087.webp"
+    },
+    {
+      "page": 89,
+      "text": "Targeting enzymes\n❖ Ansamycins 安沙霉素类:\n考\n❑ Inhibit DNA-dependent RNA polymerase (DdRp);\n❑ Broad spectrum, oral delivery, high side-effect.\nGeldanamycin 格尔德霉素 Rifamycin 利福霉素\nNaphthomycin A 萘霉素A Rifampicin (Rifampin 利福平)",
+      "image": "sources/ch22/p089.webp"
+    },
+    {
+      "page": 90,
+      "text": "Targeting enzymes\n❖ Ansamycins 安沙霉素类:\n考\n❑ MOAs of Rifampin.\nCell, 2001, 104(6) Molecular Biology: Principles and Practice, 2012",
+      "image": "sources/ch22/p090.webp"
+    },
+    {
+      "page": 91,
+      "text": "Summary for antibiotics affect DNA or RNA\n考\nQuinolones 喹诺酮\nAminocoumarins 氨基香豆素\nNitrofurans 硝基呋喃\nNitroimidazoles 硝基咪唑\n(Anthracyclines 蒽环类\nDactinomycin 更生霉素)\nAnsamycins\n(Rifampin)\n安沙霉素类 (利福平)\nhttps://www.biomol.com\nQ8: Newly discovered antibiotics that interfere with DNA\nreplication and RNA transcription?",
+      "image": "sources/ch22/p091.webp"
+    },
+    {
+      "page": 93,
+      "text": "Folate (叶酸) biosynthesis pathway\n❖ Bacteria – de novo synthesis; mammals – from food (vitamin B ).\n9\n对氨基苯甲酰基\n蝶呤 谷氨酸或多聚谷氨酸\nDHPS DHFS\nGlu\nDHP-PP DHP DHF (二氢叶酸)\n(二氢蝶呤-PP) (二氢蝶酸)\nDHFR\nPABA\n(对氨基苯甲酸) Purines\nThymidine\nGlycine\nMethionine\nTHF (四氢叶酸)",
+      "image": "sources/ch22/p093.webp"
+    },
+    {
+      "page": 94,
+      "text": "Folate (叶酸) biosynthesis pathway\n❖ Sulfonamides 磺胺类:\n考\n❑ Mimic PABA (对氨基苯甲酸), inhibit DHPS (二氢蝶酸合成酶);\n❑ Broad spectrum, oral delivery, high side-effect.\nCan. J. Chem., 2014, 92(5)",
+      "image": "sources/ch22/p094.webp"
+    },
+    {
+      "page": 96,
+      "text": "Folate (叶酸) biosynthesis pathway\n❖ Trimethoprim 甲氧苄啶:\n考\n❑ Inhibit DHFR (二氢叶酸还原酶);\n❑ Broad spectrum, oral delivery, bacteriostatic；\n❑ Trimethoprim/sulfamethoxazole (TMP/SMX) 复方新诺明.\nProteins, 2009, 76 https://pharmacy.amazon.com",
+      "image": "sources/ch22/p096.webp"
+    },
+    {
+      "page": 101,
+      "text": "Antibiotic resistance\n❖ Antibiotic resistance is a subset of antimicrobial resistance (AMR).\n考\n❖ Resistance is a property of the microbe, not a person or other\norganism infected by a microbe.\n❖ Multiple drug resistance (MDR): resistant to at least one antibiotic in\nthree or more categories.\nhttps://en.wikipedia.org",
+      "image": "sources/ch22/p101.webp"
+    },
+    {
+      "page": 103,
+      "text": "How does AMR happen?\n❖ Antibiotic-associated natural selection:\n考\n❑ Spontaneous mutation (突变);\n❑ DNA horizontal transfer (转移).\nhttps://sparthamedical.eu",
+      "image": "sources/ch22/p103.webp"
+    },
+    {
+      "page": 105,
+      "text": "Molecular mechanisms of AMR\n2\n考\n增加排出\n4\n靶点保护\n3\n5 靶点绕过\n靶点修饰\n1\n6\n减少摄入\n抗生素失活\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p105.webp"
+    },
+    {
+      "page": 106,
+      "text": "Decreased antibiotics influx\n❖ By reduction of uptake:\n❑ Reduce influx channels (porins);\n❑ Reduce outer membrane permeability (LPS);\n❑ Increase cell wall;\n❑ Biofilms formation.\nDecrease permeability Low metabolic activity\nProtect persister cells Allowing AMR gene transfer\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p106.webp"
+    },
+    {
+      "page": 107,
+      "text": "Increased antibiotics efflux\n❖ Efflux pumps have low selectivity → MDR:\n❑ Inhibit efflux pumps is a promising strategy.\nNat. Rev. Microbiol., 2018, 16(9)",
+      "image": "sources/ch22/p107.webp"
+    },
+    {
+      "page": 108,
+      "text": "Target modification\n❖ Generate mutations\n考\non the drug target to\nblock the function of\nantibiotics:\nTrends Mol. Med., 2020, 26(8)",
+      "image": "sources/ch22/p108.webp"
+    },
+    {
+      "page": 109,
+      "text": "Target protection\n❖ Mechanisms of target protection proteins (TPPs):\n❑ Sterically remove the drug from the target;\n❑ Mediate allosteric dissociation of the drug from its target;\n❑ Cause conformational changes to allow the target protein to function\neven in the presence of the drug.\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p109.webp"
+    },
+    {
+      "page": 110,
+      "text": "Target bypass\n❖ Bypass the drug target:\n❑ Target becomes redundant by acquisition of an alternative enzyme;\n❑ Replace drug target by an alternative target;\n❑ Overproduce drug target to consume the drug.\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p110.webp"
+    },
+    {
+      "page": 111,
+      "text": "Inactivation of antibiotics\n❖ Mechanisms of drug alteration enzymes:\n考\n❑ Enzymes can hydrolyze the functional group of the drug;\n❑ Enzymes modify the drugs by covalent transfer of various\nchemical groups to prevent it from binding its target.\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p111.webp"
+    },
+    {
+      "page": 112,
+      "text": "Inactivation of antibiotics\n❖ β-lactamases (β-内酰胺酶) deactivate β-lactams:\n考\n❑ Serine-based β-lactamases;\n❑ Metallo-β-lactamases.\nNat. Rev. Microbiol., 2023, 21(5)",
+      "image": "sources/ch22/p112.webp"
+    },
+    {
+      "page": 120,
+      "text": "Basic principles\n❖ Antibiotics should be used to treat some types of bacterial infection：\n❑ Diagnosis: identify the pathogenic bacteria AEAP;\n❑ Narrow spectrum: preferentially selecting antibiotics that target\nspecific bacterial species rather than broad-spectrum antibiotics;\n❑ Empiric therapy: initiating antibiotic treatment based on clinical\nsuspicion while awaiting culture results;\n❑ Dosage: appropriate dose to achieve therapeutic level in the body;\n❑ Duration: shortest effective duration to achieve clinical;\n❑ Preventing cross-transmission: minimize the spread of antibiotic-\nresistant bacteria;\n❑ Education: the appropriate use of antibiotics, AMR, and the\nimportance of adherence to treatment regimens;\n❑ Surveillance: monitoring antibiotic use and resistance patterns to\nguide antimicrobial stewardship efforts and identify emerging\nresistance trends;\n❑ Prevention use: avoid, except in operation or post-exposure.",
+      "image": "sources/ch22/p120.webp"
+    },
+    {
+      "page": 121,
+      "text": "Considering factors\n❖ Bacteria:\n❑ Antibiotic sensitivity and resistance.\n❖ Antibiotics:\n❑ PK, PD, toxicity, side-effects, administration routes;\n❑ Dose-dependent (high dose, less times);\n❑ Time-dependent (low dose, multiple times).\n❖ Patients:\n❑ Patient conditions (severity, site of infection);\n❑ Patient factors (age, comorbidities, allergies, renal and hepatic\nfunction, pregnancy, and potential drug interactions);\n❑ Patient references (income, beliefs, ability to adhere to treatment);\n❖ Cost and availability: the cost of antibiotics, accessibility, local law and\nrestrictions.",
+      "image": "sources/ch22/p121.webp"
+    },
+    {
+      "page": 123,
+      "text": "Special topics – Antituberculosis drugs\n❖ Mtb’s cell wall is different (weak G+):\n考\n分枝菌酸\n阿拉伯半乳聚糖\nNat. Rev. Microbiol., 2020, 18(1)",
+      "image": "sources/ch22/p123.webp"
+    },
+    {
+      "page": 124,
+      "text": "Special topics – Antituberculosis drugs\n❖ Special anti-TB drugs – Isoniazid (INH) 异烟肼:\n考\n❑ Pro-drug (INH-NAD), inhibits mycolic acid synthesis;\n❑ Very narrow spectrum, high side-effect;\n❑ KatG mutations cause resistance.\nDalton. Trans., 2020, 49(45)",
+      "image": "sources/ch22/p124.webp"
+    },
+    {
+      "page": 125,
+      "text": "Special topics – Antituberculosis drugs\n❖ Special anti-TB drugs – Ethambutol (EMB) 乙胺丁醇:\n考\n❑ Inhibits arabinosyltransferase EmbB;\n❑ Very narrow spectrum, high side-effect;\n❑ Contains 2 chiral centers and exists in 3\nstereoisomeric forms: (+)-(S,S)-form; (−)-\n(S)\n(R,R)-form; and meso-form. (+)-(S,S)-\n(S)\nform is 500 and 12 folds more potent.\nNat. Commun., 2020, 11(1)",
+      "image": "sources/ch22/p125.webp"
+    },
+    {
+      "page": 127,
+      "text": "Special topics – Antituberculosis drugs\n❖ Standard regimen - combination therapy：\n❑ First line: ING + EMB + PZA + rifampicin + streptomycin;\n❑ Second line: aminoglycosides + polypeptides + cyclo-serine +\nfluoroquinolones;\n❑ Third line……\nhttps://www.niaid.nih.gov",
+      "image": "sources/ch22/p127.webp"
+    },
+    {
+      "page": 128,
+      "text": "Special topics – Drug combination\n❖ If a single drug is sufficient, no need combination therapy;\n❖ Four classes of antibiotics:\n❑ Class I: bactericidal @ exponential phase (β-Lactams);\n❑ Class II: bactericidal @ stationary phase (Aminoglycosides);\n❑ Class III: bacteriostatic, fast (Macrolides);\n❑ Class IV: bacteriostatic, slow (Sulfonamides);\n▪ Class I + II: good choice (β-Lactams destroy cell wall is good for\nuptake of aminoglycosides);\n▪ Class I + III: bad choice (macrolides inhibit cell viability to reduce\nPG synthesis);\n▪ Class III + IV: good choice (inhibit protein synthesis and\nmetabolism pathway at the same time).",
+      "image": "sources/ch22/p128.webp"
+    },
+    {
+      "page": 129,
+      "text": "Special topics – Drug combination\n❖ Drug interactions: additivity, synergy, antagonism, suppression:\nNat. Commun., 2020, 11(1)",
+      "image": "sources/ch22/p129.webp"
+    },
+    {
+      "page": 137,
+      "text": "Viruses replicates only inside the cells\n❖ Viruses display a wide diversity of sizes and shapes:\nhttps://wikipedia.org\nQ12: What is the origin of viruses and\nhow they get evolved?",
+      "image": "sources/ch22/p137.webp"
+    },
+    {
+      "page": 140,
+      "text": "Three concepts in virology\n❖ 1) Enveloped virus vs non-enveloped virus:\n考\nAppl. Microbiol., 2023, 3(3)",
+      "image": "sources/ch22/p140.webp"
+    },
+    {
+      "page": 141,
+      "text": "Three concepts in virology\n❖ 2) Baltimore classification:\n考\n@ age 37!\nhttps://open.oregonstate.education",
+      "image": "sources/ch22/p141.webp"
+    },
+    {
+      "page": 144,
+      "text": "Antiviral strategies\n❖ Antiviral drugs:\n❑ Inhibit but not “kill”;\n❑ ~90 FDA-approved drugs;\n❑ High side-effects;\nC&EN, 2022",
+      "image": "sources/ch22/p144.webp"
+    },
+    {
+      "page": 146,
+      "text": "Classification of antiviral drugs\n❖ By mechanisms (target different steps of viral life cycle):\n考\n❑ Attachment and entry;\n❑ Synthesis and processing;\n❑ Assembly and release；\n❑ (Retrovirus-specific:\nreverse transcription and\nDNA integration).\nhttps://wikipedia.org",
+      "image": "sources/ch22/p146.webp"
+    },
+    {
+      "page": 147,
+      "text": "Viral entry pathways\n❖ Non-enveloped virus:\n考\n❑ Binding (receptor);\n❑ Release.\n❖ Enveloped virus:\n❑ Binding (receptor);\n❑ Membrane fusion;\n❑ Release.\nCCR5 / CXCR4\nViral Pathogenesis (Third Edition), 2016",
+      "image": "sources/ch22/p147.webp"
+    },
+    {
+      "page": 148,
+      "text": "Inhibitors for viral cellular binding\n❖ Block viral glycoproteins; or block cellular receptors (e.g., HIV):\n考\nMol. Ther. Nucleic Acids, 2018, 13\nFostemsavir 福替沙韦 Maraviroc 马拉韦罗 Ibalizumab 伊巴珠单抗\n(blocks gp120) (blocks CCR5) (blocks CD4)",
+      "image": "sources/ch22/p148.webp"
+    },
+    {
+      "page": 149,
+      "text": "Inhibitors for membrane fusion\n❖ Enfuvirtide 恩夫韦肽:\n考\n❑ Interacts with gp41, blocks HIV membrane fusion.\nMol. Ther. Nucleic Acids, 2018, 13",
+      "image": "sources/ch22/p149.webp"
+    },
+    {
+      "page": 150,
+      "text": "Inhibitors for release\n❖ Amantadine derivatives 金刚烷胺类:\n考\n❑ Antagonisms of the influenza virus M2 ion channel, prevent\nendosomal escape:\nAmantadine Rimantadine\n金刚烷胺 金刚乙胺\nhttps://www.lehigh.edu\nhttps://www.cdc.gov/flu",
+      "image": "sources/ch22/p150.webp"
+    },
+    {
+      "page": 151,
+      "text": "Inhibitors for DNA/RNA synthesis\n❖ Nucleoside analogues:\n❑ Adefovir 阿德福韦 (adenosine analog): for HBV;\n❑ Tenofovir 替诺福韦 (deoxyadenosine analog): for HIV, HBV;\n❑ Ribavirin 利巴韦林 (guanosine analog): for HCV, hemorrhagic fevers;\n❑ Acyclovir 阿昔洛韦 (guanosine analog): for HSV;\n❑ Entecavir 恩替卡韦 (deoxyguanosine analog): for HIV, HBV;\n❑ Zidovudine 齐多夫定 (thymidine analog): for HIV;\n❑ Telbivudine 替比夫定 (thymidine analog): for HBV;\n❑ Lamivudine 拉米夫定 (cytidine analog): for HIV, HBV;\n❑ Sofosbuvir 索非布韦 (uridine analog): for HCV;\nAdefovir Tenofovir Ribavirin Acyclovir Entecavir\nZidovudine Telbivudine Lamivudine Sofosbuvir",
+      "image": "sources/ch22/p151.webp"
+    },
+    {
+      "page": 152,
+      "text": "Inhibitors for DNA/RNA synthesis\n❖ Non-nucleoside reverse transcriptase inhibitor (NNRTI):\n❑ 5 in use (for HIV):\nNevirapine Efavirenz\n奈韦拉平 依法韦仑\nDelavirdine 地拉韦啶\nEtravirine Rilpivirine\n依曲韦林 利匹韦林\nNature., 2001, 410(6831)",
+      "image": "sources/ch22/p152.webp"
+    },
+    {
+      "page": 153,
+      "text": "Inhibitors for integrase\n❖ Block integration of the viral DNA into the host genome:\n❑ 5 in use (for HIV):\nViruses, 2021, 13(2)",
+      "image": "sources/ch22/p153.webp"
+    },
+    {
+      "page": 155,
+      "text": "Inhibitors for viral protease\n❖ Viruses produce a single polyprotein and process it by protease:\nMicroorganisms., 2022, 8(8)\nAntibodies., 2023, 12(1)",
+      "image": "sources/ch22/p155.webp"
+    },
+    {
+      "page": 156,
+      "text": "Inhibitors for viral protease\n❖ For HIV: “-navir”;\n❖ For HCV: “-previr”.\nhttps://wikipedia.org",
+      "image": "sources/ch22/p156.webp"
+    },
+    {
+      "page": 157,
+      "text": "Inhibitors for virion release\n❖ NA inhibitors (mimic sialic acid 唾液酸) for Influenza viruses:\n考\nOseltamivir (Tamiflu)\n奥司他韦（达菲）\nZanamivir 扎那米韦\nPeramivir 帕拉米韦\nRSC Adv., 2021, 11(3)",
+      "image": "sources/ch22/p157.webp"
+    },
+    {
+      "page": 162,
+      "text": "Rational use of antiviral drugs\n❖ Antiviral agents used in combination:\n❑ Drugs used in combination should target different viral gene products;\n❑ Splitting a treatment into two steps: induction and maintenance, drugs\nadministered in the two steps should be different;\n❑ Targeting of cellular functions needed for the virus life cycle;\n❑ Combined use of immunotherapy and chemotherapy;\n❑ Lethal mutagenesis or virus extinction by excess of mutations\nintroduced during viral replication.\nQ13: Newly discovered\ntherapeutic approaches for\nviral diseases?\nVirus Res., 2005, 107(2)",
+      "image": "sources/ch22/p162.webp"
+    },
+    {
+      "page": 166,
+      "text": "Pathogenic fungus\n❖ Approximately 300 fungi are known to be pathogenic to humans:\nEnvironment Host\n新型隐球菌\n耳念珠菌\n烟曲霉\n白色念珠菌\nhttps://www.pathelective.com",
+      "image": "sources/ch22/p166.webp"
+    },
+    {
+      "page": 168,
+      "text": "Antifungal drugs\n❖ Discovery of the antifungal drugs (~ 30 in use):\n唑类\n嘧啶类\n烯丙胺类\n两性霉素B\n棘白菌素类\n多烯类\n制霉菌素A\nJ. Fungi, 2023, 9(2)",
+      "image": "sources/ch22/p168.webp"
+    },
+    {
+      "page": 169,
+      "text": "Antifungal drugs\n❖ The MOAs of currently available antifungal drugs:\n考\n蛋白\n细胞壁\nDNA\n细胞膜\nNat. Rev. Drug Discov., 2010, 9(9)",
+      "image": "sources/ch22/p169.webp"
+    },
+    {
+      "page": 170,
+      "text": "Inhibitors for fungal cell wall\n❖ Fungal cell wall’s composition:\n考\n甘露糖蛋白\nβ-葡聚糖\n几丁质\nβ-1,3-glucan\nsynthase\nFront. Mol. Biosci., 2022, 12(7)",
+      "image": "sources/ch22/p170.webp"
+    },
+    {
+      "page": 172,
+      "text": "Inhibitors for fungal cell wall\n❖ Echinocandins 棘白菌素类:\n考\n❑ Non-competitive inhibition of β-1,3-glucan synthase;\n❑ The “penicillin of antifungals”;\n❑ Low side-effects.\n米卡芬净 阿尼芬净 卡泊芬净",
+      "image": "sources/ch22/p172.webp"
+    },
+    {
+      "page": 174,
+      "text": "Inhibitors for fungal cell membrane\n❖ Ergosterol 麦角甾醇 is a major antifungal target:\n考\n❑ Ergosterol is a fungi specific mycosterol (like cholesterol);\n❑ High side-effects.\nErgosterol\n多烯类\n麦角甾醇\n1,4-去甲基酶 唑类\n(*吗啉类：抑制\n这一步的其他酶)\nCholesterol\n羊毛甾醇\n鲨烯环氧化酶 烯丙胺类\nFront. Mol. Biosci., 2022, 12(7)\n角鲨烯",
+      "image": "sources/ch22/p174.webp"
+    },
+    {
+      "page": 175,
+      "text": "Inhibitors for fungal cell membrane\n❖ Polyenes (多烯类) directly interact with ergosterol in the membrane:\n考\nAmphotericin B 两性霉素B\nNystatin A 制霉菌素A\nNatamycin 那他霉素\nPNAS, 2011, 108(17)",
+      "image": "sources/ch22/p175.webp"
+    },
+    {
+      "page": 176,
+      "text": "Inhibitors for fungal cell membrane\n❖ Inhibitors for ergosterol biosynthesis:\n考\n角鲨烯 烯丙胺类\n鲨烯环氧化酶\n角鲨烯环氧化物\n特比萘芬\n细胞色素P-450依赖 羊毛甾醇 唑类\n性1,4-去甲基酶\n去甲羊毛甾醇 氟康唑\n固醇1,4-位还原酶\n吗啉类\n固醇7,8-位异构酶\n阿莫罗芬\n麦角甾醇\nACS Med. Chem. Lett., 2015, 6(11)",
+      "image": "sources/ch22/p176.webp"
+    },
+    {
+      "page": 184,
+      "text": "Plasmodium spp. and malaria\n裂殖体\n子孢子\n裂殖子\n血液\n裂殖体\n棒状体\n滋养体\n配子体\nFront. Syst. Biol., 2022, 2",
+      "image": "sources/ch22/p184.webp"
+    },
+    {
+      "page": 185,
+      "text": "Antimalarial drugs\n❖ The MOAs of most\nantimalarial drugs are\nnot very clear;\n❖ Digestive vacuoles is\nthe major drug targets.\n❖ Cytosolic pathways\ncan be drug targets as\nwell.\nNat. Rev. Microbiol., 2009, 7(12)",
+      "image": "sources/ch22/p185.webp"
+    },
+    {
+      "page": 186,
+      "text": "Quinine 奎宁 and related drugs\n❖ Quinine is a natural product from the bark of Cinchona tree;\n考\nChloroquine 氯喹 (CQ) is a synthetic analogue with the same MOAs:\n❑ For trophozoites and schizonts (inside red blood cells);\n❑ CQ is protonated in digestive vacuoles;\n❑ Increase Ferriprotoporphyrin IX 高铁原卟啉IX;\n❑ Other pathways (iron uptake and DNA binding).\nQuinine\n血红蛋白\nChloroquine\n高铁原卟啉IX\n（毒）\n疟原虫色素\n（无毒）\nhttps://tmedweb.tulane.edu",
+      "image": "sources/ch22/p186.webp"
+    },
+    {
+      "page": 187,
+      "text": "Artemisinin 青蒿素 and derivatives\n❖ Discovery of Artemisinin:\nArtemisia annua\nwww.nobelprize.org/prizes",
+      "image": "sources/ch22/p187.webp"
+    },
+    {
+      "page": 188,
+      "text": "Artemisinin and derivatives\n❖ Artemisinin simultaneously interferes with redox homeostasis, lipid\nmetabolism, and protein synthesis by targeting several essential proteins:\nEngineering., 2023, 31",
+      "image": "sources/ch22/p188.webp"
+    },
+    {
+      "page": 194,
+      "text": "Parasitic worms and flukes\n❖ Antiparasitic drugs (主要促排出):\n❑ Broad-spectrum benzimidazoles (e.g., Albendazole);\n❑ Macrocyclic lactones (e.g., Ivermectin);\n❑ Praziquantel, Oxamniquine, Pyrantel, and Artemisinins .\nAlbendazole 阿苯达唑 Ivermectin 伊维菌素 Praziquantel 吡喹酮\nOxamniquine 奥沙尼喹\nPyrantel 噻嘧啶",
+      "image": "sources/ch22/p194.webp"
+    }
+  ]
+}

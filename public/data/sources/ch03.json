@@ -1,0 +1,68 @@
+{
+  "chapterId": "ch03",
+  "originalFile": "3 药理学总论-药效学教学要求.pdf",
+  "sourceType": "pdf",
+  "pageCount": 17,
+  "pages": [
+    {
+      "page": 2,
+      "text": "药效学（Pharmacodynamics）\n药物效应动力学（Pharmacodynamics）：研究药物对机体\n（病原体）的作用，主要包括药物的作用、作用机制、临\n床应用、不良反应等。",
+      "image": "sources/ch03/p002.webp"
+    },
+    {
+      "page": 4,
+      "text": "一、评价活性方面：\n◼ 掌握药物作用（Drug action）：药物分子对机体组织、细胞的初始作用，指\n药物与靶标结合，并影响靶标部位的活性，是药效的动因；\n◼ 掌握药物效应或药理效应（Drug effect/pharmacological effect）：指在药物作\n用的基础上，机体组织、器官原有生理、生化功能的改变或组织形态的改变；\n◼ 掌握药物效应的效果：\n兴奋（stimulation,excitation）：机体生理、生化功能的加强；\n抑制（depression, inhibition）:机体生理、生化功能的减弱；\n兴奋药（stimulators，excitants）：能引起兴奋作用的药物；\n抑制药（depressants，inhibitors）：能引起抑制作用的药物；",
+      "image": "sources/ch03/p004.webp"
+    },
+    {
+      "page": 5,
+      "text": "一、评价活性方面：\n◼ 掌握量效关系的概念，及其与构效关系的区别？\nDoes-effect relationship or Concentration-effect relationship\n量效关系：在一定的剂量范围内，药物剂量的大小与血中药物浓度的高低成正比，\n也与药物的效应成正相关。\n◼ 量反应：某些药物效应的改变表现为连续性量的变化，如心率、血糖、尿量\n等。\n◼ 质反应：某些药物效应不能以连续数字表示，只能用阳性或阴性表示如睡眠、\n中毒、死亡等。",
+      "image": "sources/ch03/p005.webp"
+    },
+    {
+      "page": 6,
+      "text": "一、评价活性方面：量反应\n◼ 推导Hill-Langmuir equiation\n◼ 量反应中药物的作用效果与量效关系；EC50（Half maximal effective concentration）\n◼ 半数最大效应浓度EC50（half maximal effective concentration）：药物产生最大效应一\n半所需要的剂量或浓度；\n◼ 半数最大抑制浓度 IC50 （ half maximal inhibitory concentration）：药物产生最大效应\n一半所需要的剂量或浓度；\n◼ 效能 (efficacy)：药物产生的最大效应；\n◼ 效价 (Potency)：药物IC50或EC50值，值越小，效价越高；\n竞争性拮抗药（competitive antagonist）\n非竞争性拮抗药（noncompetitive antagonist）\n完全激动药（full agonist） 部分激动药（partial agonist）",
+      "image": "sources/ch03/p006.webp"
+    },
+    {
+      "page": 7,
+      "text": "评价活性方面：质反应量效关系(掌握)\n◼ 最小有效量（minimal effective does）：刚刚引起效应的剂量，也叫阈剂量\n（threshold does）；\n◼ 最大有效剂量（maximal effect）：随剂量增加，效应逐渐增加，当剂量增加到一\n定程度后，效应不再增加，此效应叫最大效应，也叫效能（efficacy）;\n◼ 极量（maximal effective does）：能引起最大治疗而不引起中毒的剂量为极量；\n◼ 最小中毒量 (minimal toxic does)：大于极量，刚刚引起中毒的剂量；\n◼ 致死量（lethal does）：计量逐渐增加，中毒加剧，引起死亡的剂量；\n◼ 临床应用剂量的选择原则：大于最小有效量，远远小于最小中毒量，不超过极量；\n◼ 半数有效量 EC50 (Median effective does): 引起50%最大效应的剂量或浓度；\n◼ 半数中毒浓度TD50： (Median toxic does): 引起50%中毒的剂量或浓度；\n◼ 半数致死浓度 LD50： (Median effective does): 引起50%死亡的剂量或浓度；\n◼ 治疗指数（therapeutic index）：TI=LD50/ED50\n◼ 安全指数(safety index)：LD5/ED95",
+      "image": "sources/ch03/p007.webp"
+    },
+    {
+      "page": 11,
+      "text": "药物的安全性: 药物作用两重性\n• 药物作用的两重性\n– 防治作用(preventive & therapeutic action)\n• 防止疾病或发生的作用\n• 对症治疗symptomatic treatment：减轻或消除症状\n• 对因治疗etiological treatment: 消除治病原因\n– 不良反应(adverse drug reaction, ADR)\n◼ 药物作用的两重性是相对的，根据治疗目的不同优势发生互换；全麻醉\n前，阿托品可以抑制腺体分泌，而松弛平滑肌引起的术后腹胀气或尿潴\n留是副作用；利用其解痉作用缓解腹痛，抑制腺体分泌引起的口干和心\n率加速则是副作用；",
+      "image": "sources/ch03/p011.webp"
+    },
+    {
+      "page": 12,
+      "text": "药物安全性\n• 不良反应(adverse drug reaction, ADR)\n– 副作用(side reaction) :药物治疗剂量引起的与防治作用无关\n• 原因在于药物的选择性差\n– 毒性作用(toxic reaction)：大剂量或长时间应用对机体明显的损害作用\n• 致突变mutagenesis\n• 致癌carcinogenesis\n• 致奇胎teratogenesis\n– 变态反应allergic reaction：指机体对药物产生的一种有害免疫介导反应\n• 人体的遗传异质性\n– 继发性反应secondary reaction： 药物治疗作用引起的不良后果\n– 后遗效应residual effect: 指停药后药物浓度下降至有效水平以下的药效\n– 特异质反应idiosyncratic reaction：基于遗传学异常的药物不良反应\n• 用药者有先天遗传性生化机制异",
+      "image": "sources/ch03/p012.webp"
+    },
+    {
+      "page": 13,
+      "text": "问题八：\n第二节 药物作用的靶点、机制和治疗作用\n◼ 掌握药物作用的靶点有哪些，并掌握其定义；\n◼ 掌握药物作用的机制；\n◼ 掌握受体的定义；\n◼ 掌握受体与配体结合的特点；\n◼ 掌握作用于受体药物的分类；激动药、拮抗药、竞争性\n拮抗药、非竞争性拮抗药等定义；\n◼ 掌握受体的类型及其在信号转导过程中的特征；\n◼ 掌握第二信使的概念及其信号转导的特征；",
+      "image": "sources/ch03/p013.webp"
+    },
+    {
+      "page": 14,
+      "text": "问题八：\n1.什么是药物靶标（掌握）：举例板书\n◼ 受体（Receptor）\n◼ 酶 （enzyme）\n◼ 离子通道 （ion channel）\n◼ 转运体 （transporter）\n◼ 基因",
+      "image": "sources/ch03/p014.webp"
+    },
+    {
+      "page": 15,
+      "text": "2.了解药物的作用机制\n◼ 影响酶的活性：抑制或增强体内的酶发挥作用；（胆碱酯酶）\n◼ 影响体内活性物质的合成或释放；（胰岛素）\n◼ 影响细胞的代谢过程；（胰岛素）\n◼ 影响生物膜或离子通道活性；（细胞膜电压）\n◼ 影响受体功能；",
+      "image": "sources/ch03/p015.webp"
+    },
+    {
+      "page": 16,
+      "text": "3.受体的定义和功能\n◼ 受体（receptor）：细胞膜表面或亚细胞结构中的蛋白质分子，能够\n特异的识别和结合细胞外具有生物活性的信号分子（配体），从而启\n动一系列的生物化学反应，导致配体产生特定的生物学效应。\n◼ 配体也叫第一信号分子或第一信使；\n◼ 第二信使（second messenger）：将第一信使的信息传递给胞内的效\n应分子，引起特定的生理功能或药理效应。包括cAMP，IP3，钙离子\n◼ 受体与配体结合的特点：\n特异性、高亲和力、饱和性、可逆性、多样性（亚型）",
+      "image": "sources/ch03/p016.webp"
+    },
+    {
+      "page": 17,
+      "text": "4.受体介导的信号转导\n◼ G蛋白偶联受体\n◼ 离子通道：钙离子通道，去极化，超极化（钙离子是第二信使）\n◼ 酪氨酸激酶的受体：（胰岛素受体）\n◼ 细胞内受体：配体和受体复合物直接进入细胞核，调控转录（甲状腺\n素）；",
+      "image": "sources/ch03/p017.webp"
+    }
+  ]
+}

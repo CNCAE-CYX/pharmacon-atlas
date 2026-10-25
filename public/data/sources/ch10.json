@@ -1,0 +1,73 @@
+{
+  "chapterId": "ch10",
+  "originalFile": "10 传出神经系统概论.ppt",
+  "sourceType": "ppt",
+  "pageCount": 38,
+  "pages": [
+    {
+      "page": 8,
+      "text": "外周神经系统的构成\n外周神经系统\n传入神经系统 (afferent nervous system)\n◼ 将来自外周感受器的信息（神经冲 ◼感觉器官\n◼内脏活动\n动）传入中枢的感觉神经系统。\n传出神经系统 (efferent nervous system)\n◼ 将中枢神经系统的信息（神经冲动\n）传到周围效应器的神经系统。目\n的是引起躯体运动或调节内脏器官\n的活动。",
+      "image": "sources/ch10/p008.webp"
+    },
+    {
+      "page": 9,
+      "text": "传出神经系统分类\n传出神经系统\n运动神经系统 (somatic motor nervous system)\n◼ 将中枢神经系统所下达的命令传到\n骨骼肌以产生自主运动。\n自主神经 (autonomic nervous system)\n◼ 支配和调节机体各器官、血管、平滑肌和腺\n体的活动和分泌，其活动通常不受主观意识\n控制，因此叫自主神经或植物神经。\n◼ 功能：参与调节葡萄糖、脂肪、水和电解质\n代谢，控制体温和调节血压、心跳、呼吸等\n生理功能。",
+      "image": "sources/ch10/p009.webp"
+    },
+    {
+      "page": 10,
+      "text": "研究背景\n神自经主元神兴经奋系性统异的常构成\n自主神经系统\n交感神经 (sympathetic nervous system)\n调节fight and flight responses\n弥散性作用\n副交感神经 (parasympathetic nervous system)\n调节rest, digest and elimination\nresponses\n可以特异性调节",
+      "image": "sources/ch10/p010.webp"
+    },
+    {
+      "page": 11,
+      "text": "交感和副交感神经系统功能\n支配器官 交感神经作用 副交感神经作用\n心率加快，心收缩力增强，冠状血管血\n心率减慢，心收缩力减慢，冠\n循环系统 流增加，内脏与皮肤血管收缩，肝血管\n状血管血流减少，血压降低\n收缩，骨骼肌血管舒张，血压升高\n呼吸系统 支气管舒张 支气管收缩，黏膜分泌增多\n唾液分泌增加，促进胃液和胰\n抑制胃肠运动，括约肌收缩，抑制胆囊\n消化系统 液分泌，促进胃肠运动，促进\n收缩\n括约肌舒张和胆囊收缩\n肾血管收缩，膀胱输尿肌舒张，括约肌\n泌尿系统 膀胱逼尿肌收缩、括约肌舒张\n收缩\n瞳孔括约肌收缩，瞳孔缩小，\n眼睛 瞳孔括约肌收缩，瞳孔扩大，远视\n近视\n皮肤 竖毛肌收缩，汗腺分泌\n代谢 肾上腺素分泌，促进糖原分解 促进胰岛素分泌",
+      "image": "sources/ch10/p011.webp"
+    },
+    {
+      "page": 16,
+      "text": "信息是怎样传输？\n神经元的结构与功能\n兴奋性突触后电位\n细胞体\n动作电位\n轴突\n树突\n神经递质\n轴突末梢\n◼ 传出神经元之间或神经与\n效应器之间信息的传递（突 突触\n触传递）依赖于神经递质和\n膨体（varicosity）\n受体。",
+      "image": "sources/ch10/p016.webp"
+    },
+    {
+      "page": 17,
+      "text": "突触的结构与神经递质\n突触的定义\n◼ 神经元与次一级神经元之间的衔接\n处(synapse)或神经末梢与效应器之间\n的接头(neuroeffector junction)。神经\n与肌肉接头叫运动终板(motor end\nplate)。 突触前膜\n(pre-\nsynaptic)\n神经递质\n突触间隙\nSynaptic\ncleft\n突触后膜\n(post-\nsynaptic)",
+      "image": "sources/ch10/p017.webp"
+    },
+    {
+      "page": 18,
+      "text": "突触的结构与神经递质\n神经递质（transmitter）的定义\n◼ 当神经冲动到达传出神经末梢\n时，在突触部位引起囊泡向突\n触前膜运动，外排释放传递神\n递质\n经冲动的化学物质。\n囊泡\n◼ 递质作用于次一级神经元或效\n应器细胞突触后膜上的受体，\n产生生物学效应，实现神经元\n之间或神经元与效应器之间的\n神经冲动化学传递。\n受体\nreceptor\n◼ 药物可以用来模拟神经递质的\n作用来实现对效应器的控制，\n从而得到预期的生物学效应（\n降压、平喘等）。",
+      "image": "sources/ch10/p018.webp"
+    },
+    {
+      "page": 19,
+      "text": "传出神经系统的受体\n受体\n定义：见上一章节\n突触前膜受体\n分类:\n(pre-synaptic\n◼ 按受体分布：突触后膜受体(post-\nreceptor)\nsynaptic receptor)和突触前膜受体\n(pre-synaptic receptor)。突触前膜受\n体主要通过正反馈和负反馈作用调控\n递质释放，影响效应器功能。\n◼ 按受体特异结合递质和激动剂：胆碱\n能受体、肾上腺素能受体、多巴胺能\n受体。\n突触后膜受体\n◼ 每种受体存在结构和功能不同的亚型\n(post-synaptic\nreceptor)",
+      "image": "sources/ch10/p019.webp"
+    },
+    {
+      "page": 20,
+      "text": "交感和副交感神经的神经递质\n1. 乙酰胆碱（acetylcholine，ACh）\n◼ 全部的交感、副交感节前神经元\n◼ 副交感节后神经元\n◼ 运动神经元\n2. 去甲肾上腺素（noradrenalin，NA）\n◼ 大多数交感节后神经元\n节后纤维\n3. 多巴胺（Dopamine，DA）\n节前纤维\n◼ 少数交感节后（支配肾及肠系血管\n的交感节后）\n4. NANC能神经 神经节\n◼ 辅助递质（co-transmitter）\n◼ ATP、5-HT、神经肽Y、NO等",
+      "image": "sources/ch10/p020.webp"
+    },
+    {
+      "page": 22,
+      "text": "传出神经系统的受体\n传出神经受体\n乙酰胆碱受体 肾上腺素受体\nM型乙酰胆碱受体 N型乙酰胆碱受体 α受体 β受体\nM 型 N （N ）\n1 1 N\nα1亚型 β1亚型\n（中枢和神经节） （神经节）\nM 型 N2（N ）\n2 M\nα2亚型 β2亚型\n(心脏) （骨骼肌）\nM 型\n3\n（平滑肌、腺体、内皮细 β3亚型\n胞）\nM 和M 亚型（主要中枢）\n4 5",
+      "image": "sources/ch10/p022.webp"
+    },
+    {
+      "page": 26,
+      "text": "兴奋性肾上腺素受体和抑制性肾上腺素受体\n肾上腺素受体\n正向调节受体亚型 负向调节受体亚型 α2 β2 α 1/ β1\nα1亚型 α2亚型\nβ1亚型 β2亚型\nβ3亚型\n◼ 所有正向效应的器官都表达α1受体。例外心脏、肾素分泌受β1调节，脂肪细胞表达β3。\n◼所有负向效应的器官都表达β2受体。 α2受体表达在突触前。\n◼腹腔内脏、骨骼肌、冠状动脉血管表达α1和β2，用药情况下具体分析。\n◼教科书P56",
+      "image": "sources/ch10/p026.webp"
+    },
+    {
+      "page": 27,
+      "text": "肾上腺素受体（adrenergic receptors）\n◼ G蛋白偶联受体（G Protein-\nCoupled Receptors，GPCRs）:\n是一大类膜蛋白受体的统称。这\n类受体由一个七次跨膜的蛋白构\n成，通过胞内G蛋白发挥作用的\n信号转导蛋白。",
+      "image": "sources/ch10/p027.webp"
+    },
+    {
+      "page": 28,
+      "text": "肾上腺素能神经靶标\n1. 生物合成\n◼ 在膨体中合成，末梢NA是胞体3-100倍\n◼ 合成过程：酪氨酸被酪氨酸羟化酶催化\n生成多巴，经多巴脱羧酶形成多巴胺，\n在经多巴胺β羟化酶酶催化生成NA。\n◼ 酪氨酸羟化酶活性较低，催化反应慢，\n是此合成步骤的限速酶。\n2. 释放\n◼ 当神经冲动传入，钙离子内流，大量NA\n释放，与突触后膜NA受体结合，产生生\n物学效应。\n3. 消除\n◼ 突触前经胺泵主动摄取75-95%的NA，少\n量入学后经肝肾中儿茶酚胺氧位甲基转\n移酶（COMT）降解\n◼ 非神经组织如心肌和肝脏摄入NA后，被\n胞内COMT和单胺氧化酶（MAO）降解\n。",
+      "image": "sources/ch10/p028.webp"
+    }
+  ]
+}

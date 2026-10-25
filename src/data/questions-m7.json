@@ -1,0 +1,95 @@
+[
+  {
+    "id": "m7-q1",
+    "type": "term",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·名词解释",
+    "chapterId": "ch22",
+    "pointId": "ch22-p1",
+    "prompt": "名词解释：PAE（post-antibiotic effect）",
+    "answer": "抗菌后效应，指抗菌药与细菌接触后，即使药物浓度已降至有效水平以下或被清除，细菌生长仍在一段时间内持续受抑制的现象。",
+    "rubric": ["英文全称post-antibiotic effect", "药物浓度下降/清除之后", "细菌生长仍受抑制"]
+  },
+  {
+    "id": "m7-q2",
+    "type": "short",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·大题",
+    "chapterId": "ch22",
+    "pointId": "ch22-p2",
+    "prompt": "为什么青霉素是繁殖期杀菌药？",
+    "answer": "繁殖期细菌正在活跃合成肽聚糖细胞壁。青霉素以β-内酰胺结构抑制PBP相关转肽酶，阻碍肽链交联，使新合成的细胞壁不完整；在细菌继续生长和胞内渗透压等因素作用下，更易裂解死亡。因此其作用与活跃细胞壁合成密切相关，表现为繁殖期杀菌。",
+    "rubric": ["繁殖期活跃合成细胞壁", "PBP/转肽酶", "抑制肽聚糖交联", "细胞壁缺陷并杀菌"]
+  },
+  {
+    "id": "m7-q3",
+    "type": "fill",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·填空",
+    "chapterId": "ch22",
+    "pointId": "ch22-p2",
+    "prompt": "按本课程资料作答：严重耐甲氧西林金黄色葡萄球菌（MRSA）感染可选______；支原体肺炎常用______类，如红霉素或阿奇霉素。",
+    "answer": "万古霉素；大环内酯",
+    "keywords": ["万古霉素", "大环内酯"],
+    "explanation": "万古霉素作用D-Ala-D-Ala，主要用于G⁺菌；大环内酯作用50S并可用于支原体等非典型病原体。"
+  },
+  {
+    "id": "m7-q4",
+    "type": "short",
+    "origin": "past",
+    "source": "《药理往年考题.docx》08级药理试题·问答",
+    "chapterId": "ch22",
+    "pointId": "ch22-p6",
+    "prompt": "设计一种抗菌合剂，并从药理作用机制、抗菌范围和不良反应等方面解释其合理性。",
+    "answer": "示例：TMP/SMX复方新诺明。磺胺甲噁唑模拟PABA抑制DHPS，甲氧苄啶抑制DHFR，在叶酸合成通路上序贯双重阻断，可产生协同并扩大抑菌效果、降低单药耐药选择。需关注过敏、胃肠反应、血液系统及叶酸代谢相关不良反应，并结合病原与患者状态。也可选择β-内酰胺+酶抑制剂，说明酶水解耐药与保护抗菌药的原则。",
+    "rubric": ["明确组合", "两个不同靶点/环节", "协同或扩大谱/降耐药依据", "毒性不能叠加失控"]
+  },
+  {
+    "id": "m7-q5",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《22 抗感染.pdf》第44页",
+    "chapterId": "ch22",
+    "pointId": "ch22-p2",
+    "prompt": "万古霉素发挥抗菌作用的直接结合位点是？",
+    "options": ["A. D-Ala-D-Ala", "B. 30S核糖体A位点", "C. DNA旋转酶", "D. 神经氨酸酶"],
+    "answer": "A",
+    "explanation": "万古霉素结合肽聚糖前体末端D-Ala-D-Ala，阻碍细胞壁合成，主要覆盖G⁺菌。"
+  },
+  {
+    "id": "m7-q6",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《22 抗感染.pdf》第93—96页",
+    "chapterId": "ch22",
+    "pointId": "ch22-p5",
+    "prompt": "复方新诺明（TMP/SMX）的协同机制是？",
+    "options": ["A. 同时不可逆抑制同一PBP", "B. 分别抑制DHPS和DHFR，序贯阻断叶酸通路", "C. 同时激活DNA旋转酶", "D. 分别破坏细胞膜和神经氨酸酶"],
+    "answer": "B",
+    "explanation": "SMX抑制二氢蝶酸合成酶，TMP抑制二氢叶酸还原酶，形成连续双重阻断。"
+  },
+  {
+    "id": "m7-q7",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《22 抗感染.pdf》第157页",
+    "chapterId": "ch22",
+    "pointId": "ch22-p7",
+    "prompt": "奥司他韦用于流感的主要靶点是？",
+    "options": ["A. M2离子通道", "B. 神经氨酸酶（NA）", "C. HIV整合酶", "D. 细菌50S核糖体"],
+    "answer": "B",
+    "explanation": "奥司他韦模拟唾液酸并抑制流感病毒神经氨酸酶，减少新生病毒释放。"
+  },
+  {
+    "id": "m7-q8",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《22 抗感染.pdf》第172页",
+    "chapterId": "ch22",
+    "pointId": "ch22-p8",
+    "prompt": "卡泊芬净等棘白菌素类的主要作用是？",
+    "options": ["A. 抑制β-1,3-葡聚糖合成", "B. 抑制细菌PBP", "C. 抑制HIV蛋白酶", "D. 直接激活麦角甾醇合成"],
+    "answer": "A",
+    "explanation": "棘白菌素非竞争性抑制真菌β-1,3-葡聚糖合成酶，破坏真菌细胞壁。"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "m4-q1",
+    "type": "term",
+    "origin": "past",
+    "source": "《21级药理期末.txt》21级期末·名词解释",
+    "chapterId": "ch17",
+    "pointId": "ch17-p1",
+    "prompt": "名词解释：后除极（after-depolarization）",
+    "answer": "心肌细胞在动作电位复极过程中或复极后出现的异常去极化。早后除极发生于2、3相，与Ca²⁺内流增多相关；迟后除极发生于4相，常与胞内Ca²⁺超载诱发短暂Na⁺内流有关，可触发心律失常。",
+    "rubric": ["异常去极化", "早后除极时相与机制", "迟后除极时相与机制"]
+  },
+  {
+    "id": "m4-q2",
+    "type": "short",
+    "origin": "past",
+    "source": "《药理往年考题.docx》药学院2006级长学制药理考题·简答",
+    "chapterId": "ch15",
+    "pointId": "ch15-p1",
+    "prompt": "列举6种（类）降压药，并简述其机制。",
+    "answer": "示例：①氢氯噻嗪抑制远曲小管Na⁺-Cl⁻共转运；②硝苯地平阻断血管平滑肌Ca²⁺通道；③卡托普利抑制ACE并减少缓激肽降解；④氯沙坦阻断AT1；⑤普萘洛尔阻断β受体、降低心输出量和肾素；⑥哌唑嗪阻断突触后α1；也可补充可乐定激动中枢/突触前α2、硝普钠释放NO、米诺地尔开放K⁺通道等。",
+    "rubric": ["至少六类", "每类代表药", "每类靶点", "机制方向正确"]
+  },
+  {
+    "id": "m4-q3",
+    "type": "short",
+    "origin": "past",
+    "source": "《药理往年考题.docx》08级药理试题·问答",
+    "chapterId": "ch16",
+    "pointId": "ch16-p3",
+    "prompt": "简述强心苷抗慢性心功能不全的药理活性和作用机制。",
+    "answer": "强心苷抑制Na⁺/K⁺-ATP酶，使胞内Na⁺增多并改变Na⁺/Ca²⁺交换，增加胞内Ca²⁺，产生正性肌力。还具有负性频率、减慢房室传导及利尿等作用，可改善部分慢性心衰，尤其合并快速房颤/房扑者的症状与心室率。",
+    "rubric": ["Na⁺/K⁺-ATP酶", "胞内Ca²⁺增多", "正性肌力", "负性频率/房室传导与临床特点"]
+  },
+  {
+    "id": "m4-q4",
+    "type": "fill",
+    "origin": "past",
+    "source": "《药理往年考题.docx》08级药理试题·填空",
+    "chapterId": "ch17",
+    "pointId": "ch17-p3",
+    "prompt": "按Vaughan Williams分类：利多卡因属于______类，阻滞______通道；胺碘酮属于______类，______动作电位时程；维拉帕米属于______类，阻滞______通道。",
+    "answer": "Ⅰb；Na⁺；Ⅲ；延长；Ⅳ；Ca²⁺",
+    "keywords": ["Ⅰb", "Na", "Ⅲ", "延长", "Ⅳ", "Ca"],
+    "explanation": "Ⅰ钠、Ⅱβ、Ⅲ延长APD（以K通道为代表）、Ⅳ钙。"
+  },
+  {
+    "id": "m4-q5",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《15 抗高血压药-学生.pptx》第19、22页",
+    "chapterId": "ch15",
+    "pointId": "ch15-p3",
+    "prompt": "卡托普利引起顽固性干咳，最合理的机制解释是？",
+    "options": ["A. AngⅡ生成过多", "B. 缓激肽降解减少", "C. 直接激动M受体", "D. 阻断β2受体"],
+    "answer": "B",
+    "explanation": "ACE也参与缓激肽降解，ACEI使缓激肽增多，与干咳和血管性水肿相关。"
+  },
+  {
+    "id": "m4-q6",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《16 抗心力衰竭药.pptx》第26—28页",
+    "chapterId": "ch16",
+    "pointId": "ch16-p4",
+    "prompt": "使用地高辛患者出现黄视、恶心和心律失常。下列哪项最符合课件中的中毒处理原则？",
+    "options": ["A. 不需评估，直接加倍剂量", "B. 识别中毒并按心律表现选择苯妥英钠、阿托品或Fab等", "C. 所有患者只用维生素K", "D. 与排钾利尿药加量合用"],
+    "answer": "B",
+    "explanation": "黄视是强心苷中毒警示；快速型与缓慢型心律异常处理不同，低钾会加重毒性。"
+  },
+  {
+    "id": "m4-q7",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《15 抗高血压药-学生.pptx》第14—15页",
+    "chapterId": "ch15",
+    "pointId": "ch15-p2",
+    "prompt": "硝苯地平降压时可能出现反射性心率加快，最直接的起始机制是？",
+    "options": ["A. 阻断血管平滑肌Ca²⁺通道使小动脉扩张", "B. 激动中枢α2受体", "C. 抑制集合管醛固酮受体", "D. 激活AT1受体"],
+    "answer": "A",
+    "explanation": "小动脉扩张、血压下降引起代偿性交感兴奋，可伴心悸和肾素活性升高。"
+  },
+  {
+    "id": "m4-q8",
+    "type": "choice",
+    "origin": "supplement",
+    "source": "Kimi补充题｜依据《16 抗心力衰竭药.pptx》第37页",
+    "chapterId": "ch16",
+    "pointId": "ch16-p5",
+    "prompt": "伊伐布雷定减慢心率的主要靶点是？",
+    "options": ["A. 窦房结If电流", "B. 血管紧张素ⅡAT1受体", "C. 近曲小管SGLT2", "D. 心肌Na⁺/K⁺-ATP酶"],
+    "answer": "A",
+    "explanation": "伊伐布雷定特异性抑制窦房结起搏电流If，不是正性肌力药。"
+  }
+]

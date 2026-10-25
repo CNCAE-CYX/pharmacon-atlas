@@ -1,0 +1,288 @@
+{
+  "chapterId": "ch23",
+  "originalFile": "23 抗癌.pdf",
+  "sourceType": "pdf",
+  "pageCount": 128,
+  "pages": [
+    {
+      "page": 22,
+      "text": "Types of cancer\n❖ Benign tumors (良性肿瘤) are not cancers; malignant tumors (恶性肿瘤)\nare cancers.\n❖ Some types of cancer are classified for the morphology (size and shape)\nof the cells, such as “giant cell carcinoma”, “spindle cell carcinoma” and\n“non-small cell lung cancer”.\nhttps://www.verywellhealth.com/",
+      "image": "sources/ch23/p022.webp"
+    },
+    {
+      "page": 23,
+      "text": "Types of cancer\n❖ Cancers are classified by the origin of the tumor:\n考\n❑ Carcinoma (癌): derived from epithelial cells (上皮细胞);\n❑ Sarcoma (肉瘤): derived from connective tissue (结缔组织);\n❑ Blastoma (母细胞瘤): derived from immature \"precursor\" cells or\nembryonic tissue;\n❑ Lymphoma (淋巴癌) and leukemia (白血病): derived from\nhematopoietic cells (造血细胞);\n❑ Germ cell tumor: derived from pluripotent cells (多能细胞).\nhttps://dyhpoon.com/",
+      "image": "sources/ch23/p023.webp"
+    },
+    {
+      "page": 25,
+      "text": "Hallmarks of cancer cells\n❖ The morphological features of cancer cells:\n❑ Many cells that continue to grow and divide;\n❑ Variations in size of cells;\n❑ Variations in shapes of cells;\n❑ Nucleus that is larger and darker;\n❑ Abnormal number of chromosomes;\n❑ Disorganized chromosomes;\n❑ Cluster of cells without clear boundary.\nhttps://www.verywellhealth.com/",
+      "image": "sources/ch23/p025.webp"
+    },
+    {
+      "page": 26,
+      "text": "Hallmarks of cancer cells\n❖ The biological features of cancer cells:\n考\n❑ Cell growth absent the proper signals, 无生长信号也可生长;\n❑ Loss of sensitivity to anti-growth signals, 停止生长信号失灵;\n❑ Avoidance of programmed cell death, 无程序性死亡;\n❑ Limitless number of cell divisions, 永生化;\n❑ Acquisition of ability of invasion, 浸润侵袭能力；\n❑ Promoting angiogenesis, 促血管生长;\n❑ Acquisition of ability to seed metastases, 转移能力.\nhttps://www.verywellhealth.com/",
+      "image": "sources/ch23/p026.webp"
+    },
+    {
+      "page": 28,
+      "text": "Carcinogenesis 癌变\n❖ Carcinogenesis, also called oncogenesis or tumorigenesis, whereby\n考\nnormal cells are transformed into cancer cells.\n❖ Initiation → Promotion → Progression\n诱发转化 克隆增生 发展恶化\nQuant. Imaging Med. Surg., 2015, 5(5)",
+      "image": "sources/ch23/p028.webp"
+    },
+    {
+      "page": 29,
+      "text": "Cancer initiation is a rare event\n❖ The completion of the initiation of carcinogenesis would be a very\n考\nrare event without: loss of capacity to repair genetic errors,\nleading to an increased mutation and genomic instability, thus\naccelerating all the other changes.\nSignal Transduct. Target. Ther., 2024, 9(1)",
+      "image": "sources/ch23/p029.webp"
+    },
+    {
+      "page": 37,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ DNA damage:\n▪ DNA damage is the primary cause of cancer;\n▪ Causes: endogenous (metabolites, reactive oxygen species……)\nand exogenous (UV, aflatoxins, infection……);\n▪ DNA damage is an abnormal structure in DNA, while a mutation\nis a change in the sequence of base pairs (not all DNA damages\ninduce mutation; not all mutations caused by DNA damage);\n▪ DNA damage induces DNA damage response (DDR);\n▪ The process of DNA damage induces cancer:\nIncrease\nDamages DNA damage\nDeficiency the risk\nDNA on DNA accumulation\nin DNA of\ndamage repair & genomic\nrepair cancer\ngenes instability\ninitiation",
+      "image": "sources/ch23/p037.webp"
+    },
+    {
+      "page": 38,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ Cell cycle and programmed cell death:\n▪ If cell cycle control mechanisms fail, cells can divide\nuncontrollably, leading to the cancer initiation.\nCredit @ BioNinja",
+      "image": "sources/ch23/p038.webp"
+    },
+    {
+      "page": 39,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ Cell cycle and programmed cell death:\n▪ If the programmed cell death (apoptosis) fail, cells cannot be\nrenewed, leading to the cancer initiation.\nNat. Rev. Mol. Cell Biol., 2022, 23(1)",
+      "image": "sources/ch23/p039.webp"
+    },
+    {
+      "page": 40,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ Genes (proto-oncogenes vs tumor-suppressor genes):\nhttps://slcc.pressbooks.pub/",
+      "image": "sources/ch23/p040.webp"
+    },
+    {
+      "page": 41,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ Genes (proto-oncogenes vs tumor-suppressor genes):\n▪ Proto-oncogenes 原癌基因 → Oncogenes 癌基因;\n▪ Cannot be simply removed (they are essential genes);\n▪ Transformation:\n• Increase expression level;\n• Increase stability and/or activity;\n• Loss of regulation.\n▪ Examples:\n• Growth factors and their receptors (e.g., EGF, EGFR);\n• Tyrosine kinases (e.g., Bcr-Abl);\n• Serine/threonine kinases (e.g., cyclin-dependent kinases);\n• Regulatory GTPases (e.g., Ras);\n• Transcription regulators (e.g., Myc, YAP);\n• Others (e.g., Bcl-2).",
+      "image": "sources/ch23/p041.webp"
+    },
+    {
+      "page": 42,
+      "text": "Mechanisms of cancer initiation\n❖ Pathophysiological mechanism of cancer:\n考\n❑ Genes (proto-oncogenes vs tumor-suppressor genes):\n▪ Tumor-suppressor genes 抑癌基因 (TSGs);\n▪ Loss of TSGs > activation of oncogenes;\n▪ Mutations may occur in non-coding regions and coding regions;\n▪ Examples:\n• Receptors or signal transducers\nfor signals that inhibit cell\nproliferation (e.g., TGF-β);\n• Control cell cycle-specific gene\nexpression (e.g., pRB);\n• Checkpoint-control proteins\n(e.g., Brca1);\n• Proteins that induce apoptosis\nand DNA repairing (e.g., p53);\n• …...",
+      "image": "sources/ch23/p042.webp"
+    },
+    {
+      "page": 48,
+      "text": "Mechanisms of cancer progression\n❖ Progression is the late stages of cancer, always happens with\n考\nmetastasis (转移);\n❖ Metastasis is the spread of cancer to other locations in the body;\n❖ Metastasis can occur via the blood or the lymphatic system or both;\n❖ The dispersed tumors are called metastatic tumors (转移瘤), while the\noriginal is called the primary tumor (原位瘤);\n❖ Almost all cancers can metastasize;\n❖ Most deaths of patients due to\ncancer that has metastasized;\n❖ Different types of cancers tend\nto metastasize to particular\norgans. Overall, the most\ncommon places for metastases\nto occur are the lung, liver,\nbrain, and bone.\nCredit @ BioRender",
+      "image": "sources/ch23/p048.webp"
+    },
+    {
+      "page": 49,
+      "text": "Mechanisms of cancer progression\n❖ The typical steps in metastasis are:\n考\n1. Local invasion (侵袭);\n2. Intravasation into the blood or lymph;\n3. Circulation through the body;\n4. Extravasation into the new tissue;\n5. Proliferation;\n6. Angiogenesis (血管生成).\n6\n1\n2\n3\n4\n5\nJ. Pineal Res., 2017, 62(1)",
+      "image": "sources/ch23/p049.webp"
+    },
+    {
+      "page": 61,
+      "text": "Chemotherapy is systemic\n❖ Chemotherapy is one of the major categories of the medical discipline\nspecifically for cancer, which is called medical oncology (肿瘤内科).\n❖ Chemotherapy (whether classic chemotherapy, hormonal therapy, or\ntargeted therapy) is systemic (therapeutics are introduced into the blood\nstream and therefore can treat cancer anywhere in the body); local\ntherapy (surgery, radiotherapy, and laser therapy) only works where the\ntreatments are applied.\n❖ Limitations: chemotherapy does not always work, and even when it is\nuseful, it may not completely destroy the cancer:\n❑ Side effects;\n❑ Resistance;\n❑ Combination.",
+      "image": "sources/ch23/p061.webp"
+    },
+    {
+      "page": 63,
+      "text": "Efficacy and dosage\n❖ The chemotherapy efficacy depends on the type and the stage of cancer.\n❖ Curative (e.g., some leukemias), ineffective (e.g., some brain cancers),\nneedless (e.g., some skin cancers).\n❖ Dosage of chemotherapy can be difficult: too low → ineffective against\nthe cancer; too high → intolerable toxicity.\n❖ The standard method of determining chemotherapy dosage is based on\ncalculated body surface area (BSA).\n❑ Only considering body weight and height;\n❑ Other factors may influence\ndrug absorption: age, sex,\norgan function, metabolism,\nPK variation, obesity……",
+      "image": "sources/ch23/p063.webp"
+    },
+    {
+      "page": 64,
+      "text": "Targets of classic cytotoxic drugs\n❖ The biological features of cancer cells:\n考\n❑ Cell growth absent the proper signals, 无生长信号也可生长;\n❑ Loss of sensitivity to anti-growth signals, 停止生长信号失灵;\n❑ Avoidance of programmed cell death, 无程序性死亡;\n❑ Limitless number of cell divisions, 永生化;\n❑ Acquisition of ability of invasion, 浸润侵袭能力；\n❑ Promoting angiogenesis, 促血管生长;\n❑ Acquisition of ability to seed metastases, 转移能力.\nDNA and cell division\nare the major targets of classic cytotoxic drugs!",
+      "image": "sources/ch23/p064.webp"
+    },
+    {
+      "page": 65,
+      "text": "Classification of classic cytotoxic drugs\n❖ Classification by mechanism of actions (MOAs):\n考\n❑ Antimetabolites (抗代谢药物) interfere biosynthesis of\nnucleic acid;\n❑ Alkylating agents (烷化剂) bind and destroy DNA;\n❑ Topoisomerase inhibitors (拓扑异构酶抑制剂) inhibit DNA\nreplication and transcription;\n❑ Antimicrotubule agents (抗微管药物) block cell division;\n❑ *Anticancer antibiotics (抗癌抗生素).\nFront. Oncol., 2022, 12",
+      "image": "sources/ch23/p065.webp"
+    },
+    {
+      "page": 66,
+      "text": "Classification of classic cytotoxic drugs\n❖ Classification by cell cycle dependence:\n考\n❑ Cell cycle-specific agents (CCSA, 细胞周期特异性药);\n❑ Cell cycle-nonspecific agents (CCNSA, 细胞周期非特异性药).\nCredit @ Lecturio Medical",
+      "image": "sources/ch23/p066.webp"
+    },
+    {
+      "page": 67,
+      "text": "Antimetabolites\n❖ Antimetabolites interfere with the biosynthesis of nucleic acid and\n考\ntherefore inhibit cell division and tumor growth. Because cancer\ncells spend more time dividing than normal cells, inhibiting cell\ndivision harms cancer cells more than normal cells.\n❖ Antimetabolites generally impair DNA replication machinery, either by\nincorporation of chemically altered nucleotides or by depleting the\nsupply of deoxynucleotides.\n❖ Usually CCSA (S phase).\n❖ Types:\n❑ Base analogues;\n❑ Nucleoside analogues;\n❑ Nucleotide analogues;\n❑ Antifolates;\n❑ Others.",
+      "image": "sources/ch23/p067.webp"
+    },
+    {
+      "page": 68,
+      "text": "Antimetabolites\n❖ Inhibitors for purine nucleotide synthesis:\n考\n❑ Mercaptopurine (6-MP, 巯基嘌呤) and\nTioguanine (6-TG, 硫鸟嘌呤) inhibit\nPRPP amidotransferase (磷酸核糖焦磷\n酸酰胺基转移酶) and interconversion\nof purine nucleotide.\n6-MP 6-TG\nR5P: ribose 5-phosphate 核糖-5-磷酸\nPRPP: phosphoribosyl pyrophosphate 磷酸核糖焦磷酸\nPRA: 5-phosphoribosylamine 5-磷酸核糖胺\nIMP: inosine monophosphate 次黄嘌呤单磷酸 (肌苷酸)\nXMP: xanthosine monophosphate 黄嘌呤单磷酸 (adapted) Cell Chem. Biol., 2017, 24(9)",
+      "image": "sources/ch23/p068.webp"
+    },
+    {
+      "page": 69,
+      "text": "Antimetabolites\n❖ Inhibitors for pyrimidine nucleotide synthesis:\n考\n❑ Brequinar (布喹那) and Leflunomide (来\n氟米特) inhibit DHO dehydrogenase\n(DHODH, 二氢乳清酸脱氢酶);\n❑ Hydroxyurea (HU, 羟基脲) inhibits\nribonucleotide reductase (RNR, 核糖核\n苷二磷酸还原酶);\nBrequinar Leflunomide HU\nHU RNR\nCDP\nHU RNR\nCarbamoyl phosphate: 氨甲酰磷酸酯 dCDP\nDHO: dihydroorotate 二氢乳清酸\nOrotate: 乳清酸 (嘧啶酸)\nOMP: orotidine monophosphate 乳清苷单磷酸 (adapted) Cell Chem. Biol., 2017, 24(9)",
+      "image": "sources/ch23/p069.webp"
+    },
+    {
+      "page": 70,
+      "text": "Antimetabolites\n❖ Inhibitors for folate cycle:\n考\n❑ Three key enzymes in folate cycle: thymidylate synthase (TS, 胸\n苷酸合成酶), dihydrofolate reductase (DHFR, 二氢叶酸还原酶), and\nglycinamide ribonucleotide formyltransferase (GARFT, 甘氨酰胺核苷酸\n甲酰转移酶);\n❑ Pemetrexed (培美曲塞) inhibits TS, DHFR, and GARFT;\n❑ 5-fluorouracil (5-FU, 氟尿嘧啶) inhibits TS;\n❑ Methotrexate (MTX, 甲氨蝶呤) inhibits DHFR.\n5-FU\nPemetrexed\nMTX\nDHF: dihydrofolate 二氢叶酸\nTHF: tetrahydrofolate 四氢叶酸\nCHO-THF: N10-formyl-tetrahydrofolate N10-甲酰四氢叶酸\n5,10-CH -THF: 5,10-methylenetetrahydrofolate 5,10-亚甲基四氢叶酸 Nat. Rev. Drug Discov., 2005\n2",
+      "image": "sources/ch23/p070.webp"
+    },
+    {
+      "page": 71,
+      "text": "Alkylating agents\n❖ Alkylating agents (烷化剂) attach alkyl groups to DNA.\n考\n❖ Cancer cells proliferate faster and with less error-correcting than\nnormal cells, they are more sensitive to DNA damage (alkylated).\n❖ Alkylating agents are also toxic to normal cells, most of them are also\ncarcinogenic.\n❖ Usually CCNSA. Procarbazine\n甲基苄肼\n❖ Types:\n❑ Classical alkylating agents:\n▪ Nitrogen mustards (氮芥类);\n▪ Nitrosoureas (亚硝基脲类);\n▪ Aziridines (环乙亚胺类)\nAltretamine\n▪ Alkyl sulfonates (烷基磺酸类);\n六甲蜜胺\n❑ Cisplatin and derivatives;\n❑ Non-classical alkylating agents:\n(e.g., Procarbazine, Altretamine).",
+      "image": "sources/ch23/p071.webp"
+    },
+    {
+      "page": 72,
+      "text": "Alkylating agents\n❖ Classical alkylating agents have true alkyl groups:\n❑ Nitrogen mustards (氮芥类): e.g., Mechlorethamine (氮芥),\nCyclophosphamide (环磷酰胺);\n❑ Nitrosoureas (亚硝基脲类): e.g., Carmustine (卡莫司汀);\n❑ Aziridines (环乙亚胺类): e.g., Thiotepa (噻替哌);\n❑ Alkyl sulfonates (烷基磺酸类): e.g., Busulfan (白消安);\nMechlorethamine Cyclophosphamide Carmustine\nThiotepa Busulfan",
+      "image": "sources/ch23/p072.webp"
+    },
+    {
+      "page": 73,
+      "text": "Alkylating agents\n❖ Classical alkylating agents – MOAs:\n考\nCredit @ Osmosis.org",
+      "image": "sources/ch23/p073.webp"
+    },
+    {
+      "page": 74,
+      "text": "Alkylating agents\n❖ Cisplatin and derivatives do not have an alkyl group, but damage\n考\nDNA in a similar manner, described as \"alkylating-like\":\n❑ e.g., Cisplatin (顺铂), Carboplatin (卡铂), Oxaliplatin (奥沙利铂)……\nCisplatin\nCarboplatin\nOxaliplatin\nQ4: How about transplatin?\nCredit @ BioRender",
+      "image": "sources/ch23/p074.webp"
+    },
+    {
+      "page": 75,
+      "text": "Topoisomerase inhibitors\n❖ Topoisomerases (拓扑异构酶) relax DNA supercoiling during\n考\nreplication and transcription:\n❑ Type I (TopoI) transiently cleaves single stranded DNA;\n❑ Type II (TopoII) transiently cleaves double stranded DNA.\n❖ CCNSA & CCSA (S/G2 phase).\n❖ TopoI inhibitors: Camptothecins (喜树碱类);\n❖ TopoII inhibitors :\n❑ DNA poisons;\n❑ Enzyme poisons;\n❑ Catalytic inhibitors.",
+      "image": "sources/ch23/p075.webp"
+    },
+    {
+      "page": 76,
+      "text": "Topoisomerase inhibitors\n❖ TopoI inhibitors – Camptothecins (喜树碱类):\n考\n❑ Camptothecin (CPT) was isolated from the bark and stem of\n“Happy tree” (C. acuminata), a traditional Chinese medicine;\n❑ CPT binds to the TopoI-DNA complex;\n❑ CPT analogues: Topotecan (拓扑替康), Irinotecan (伊立替康)……\nNatural Products (DOI:10.1007/978-3-642-22144-6_26)\n喜树（旱莲）皮\nCamptothecin Topotecan Irinotecan",
+      "image": "sources/ch23/p076.webp"
+    },
+    {
+      "page": 77,
+      "text": "Topoisomerase inhibitors\n❖ TopoII inhibitors – DNA poisons:\n考\n❑ DNA poisons intercalate into DNA;\n❑ Anthracyclines (蒽环类) are anticancer antibiotics (both DNA\nintercalating and ROS generating);\n❑ Daunorubicin (道诺霉素, 柔红霉素), Doxorubicin (阿霉素)……\nRings\nSugar\nDaunorubicin Doxorubicin\nSugar\nRings\nChemMedChem, 2020, 15(11) Biochemistry, 1990, 29(10)",
+      "image": "sources/ch23/p077.webp"
+    },
+    {
+      "page": 78,
+      "text": "Topoisomerase inhibitors\n❖ TopoII inhibitors – Enzyme poisons:\n考\n❑ Derivative of podophyllotoxin (鬼臼毒素) from the mayapple\n(Podophyllum peltatum, 美洲曼陀罗).\n❑ Etoposide (依托泊苷), Teniposide (替尼泊苷);\n❑ TopoII-DNA-ETO complex blocks re-ligation of DBSs in the DNA.\nEtoposide\nTeniposide\nCytokine, 2023, 168",
+      "image": "sources/ch23/p078.webp"
+    },
+    {
+      "page": 79,
+      "text": "Topoisomerase inhibitors\n❖ TopoII inhibitors – Catalytic inhibitors:\n❑ The agents take role at different stage of TopoII enzymatic activity;\n❑ Novobiocin (新生霉素), Dexrazoxane (ICRF-187), Merbarone……\nNovobiocin\nDexrazoxane\nMerbarone\nhttps://doi.org/10.1016/B978-0-12-813689-8.00001-X",
+      "image": "sources/ch23/p079.webp"
+    },
+    {
+      "page": 80,
+      "text": "Antimicrotubule agents\n❖ Also called mitotic inhibitor, usually are plant-derived alkaloids that\n考\ndisrupt microtubule functions;\n❖ Stabilizers (inhibiting depolymerization of α/β-tubulin) and\ndestabilizers (inhibiting polymerization of α/β-tubulin);\n❖ CCSA (M phase).\n❖ Three major classes: Taxane family (紫杉烷类), Colchicine analogues\n(秋水仙碱类), and Vinca alkaloids (长春花碱类).\nCredit @ Wikimedia Commons",
+      "image": "sources/ch23/p080.webp"
+    },
+    {
+      "page": 81,
+      "text": "Antimicrotubule agents\n❖ Taxane family – Paclitaxel (紫杉醇, Taxol):\n考\n❑ Derived from bark of the Pacific yew or European yew;\n❑ Stabilizer (inhibiting depolymerization), binding to activated α/β-\ntubulin dimer, results in permanent stabilization of microtubule.\nJACS, 1994, 116(4)\nTaxus brevifolia\nPDB (8BDF)\nQ5: Why paclitaxel does not\ninhibit yew’s microtubule?\nNature, 1994, 367(6464)",
+      "image": "sources/ch23/p081.webp"
+    },
+    {
+      "page": 82,
+      "text": "Antimicrotubule agents\n❖ Colchicine (秋水仙碱):\n考\n❑ Derived from Colchicum autumnale (秋番红花);\n❑ Destabilizer (inhibiting polymerization), binding to β-tubulin,\nprevents tubulin polymerization as microtubule.\nC. autumnale\nComput. Struct. Biotechnol. J., 2021, 3(19) Inorg. Chem., 2022, 61(3)",
+      "image": "sources/ch23/p082.webp"
+    },
+    {
+      "page": 83,
+      "text": "Antimicrotubule agents\n❖ Vinca alkaloids – Vinblastine (长春碱) and Vincristine (长春新碱):\n考\n❑ Derived from Catharanthus roseus (马达加斯加长春花);\n❑ Destabilizer (inhibiting polymerization), binding to β-tubulin at\nthe microtubule ends to suppress of microtubule dynamics.\nC. roseus\nVinblastine\nNat. Rev. Cancer, 2004, 4(4) Front. Plant Sci., 2017, 4(8)\nVincristine",
+      "image": "sources/ch23/p083.webp"
+    },
+    {
+      "page": 90,
+      "text": "Targeted therapy\n❖ Targeted therapy, or molecularly-targeted therapy, is one of the major\nmodalities of medical treatment of cancer.\n❖ Targeted therapy interferes specific targeted proteins needed for\ncarcinogenesis and tumor growth, rather than by simply interfering with all\nrapidly dividing cells (e.g. classic cytotoxic drugs).\n❖ Biomarkers are usually required to aid the selection of patients who will\nlikely respond to a given targeted therapy.\n❖ Types:\n❑ Small molecule drugs vs monoclonal antibodies;\n❑ Targets:\n▪ Tyrosine kinase;\n▪ Serine/threonine kinase;\n▪ Cell surface receptors;\n▪ Apoptosis factors;\n▪ Others……",
+      "image": "sources/ch23/p090.webp"
+    },
+    {
+      "page": 91,
+      "text": "Targets of targeted therapy\n❖ The biological features of cancer cells:\n考\n❑ Cell growth absent the proper signals, 无生长信号也可生长;\n❑ Loss of sensitivity to anti-growth signals, 停止生长信号失灵;\n❑ Avoidance of programmed cell death, 无程序性死亡;\n❑ Limitless number of cell divisions, 永生化;\n❑ Acquisition of ability of invasion, 浸润侵袭能力；\n❑ Promoting angiogenesis, 促血管生长;\n❑ Acquisition of ability to seed metastases, 转移能力.\nGrowth-related pathways, cell death-related pathways,\nand angiogenesis\nare the popular targets of targeted therapy!",
+      "image": "sources/ch23/p091.webp"
+    },
+    {
+      "page": 92,
+      "text": "Tyrosine kinase inhibitors\n❖ Tyrosine kinases are enzymes that can transfer a phosphate group from\nATP to the tyrosine residues of specific proteins inside a cell.\n❖ They functions as an \"on\" or \"off\" switch in many cellular functions. They\ncan become mutated, stuck in the \"on\" position, and cause unregulated\ngrowth of the cell, which is necessary for the cancer development.\n❖ Receptor tyrosine kinases and non-receptor tyrosine kinases.\nOncogene, 2021, 40(24)",
+      "image": "sources/ch23/p092.webp"
+    },
+    {
+      "page": 93,
+      "text": "Non-receptor tyrosine kinase inhibitors\n❖ Target: Bcr-Abl fusion protein (“Philadelphia chromosome”).\n考\n❖ Drug: Imatinib (伊马替尼), trade name Glivec® (格列卫):\n❑ Binding close to the ATP binding site of Abl, locking it in a closed\nconformation, and therefore inhibiting the enzyme activity;\n❑ Can target other tyrosine kinases such as c-KIT and FLT3;\n❑ Applications: chronic myelogenous leukemia (慢性粒细胞白血病), Ph+\nacute lymphocytic leukemia (费城染色体阳性急性淋巴细胞白血病)……\n❑ The first targeted small molecule drug (FDA @ 2001).\nPDB (1IEP)\nFront. Biosci., 2006, 1(11)",
+      "image": "sources/ch23/p093.webp"
+    },
+    {
+      "page": 94,
+      "text": "Non-receptor tyrosine kinase inhibitors\n❖ Target: Bcr-Abl fusion protein (“Philadelphia chromosome”).\n❖ Other drugs:\n❑ Dasatinib (达沙替尼, Sprycel®); Dasatinib\n❑ Nilotinib (尼洛替尼, Tasigna®);\n❑ Bosutinib (博舒替尼, Bosulif®);\n❑ Ponatinib (普纳替尼, Iclusig®);\n❑ Asciminib (阿西米尼, Scemblix®)……\nNilotinib Bosutinib\nPonatinib Asciminib",
+      "image": "sources/ch23/p094.webp"
+    },
+    {
+      "page": 95,
+      "text": "Receptor tyrosine kinase inhibitors\n❖ Target: Epidermal growth factor receptor (EGFR).\n考\n❖ Drug: Gefitinib (吉非替尼), trade name Iressa® (易瑞沙):\n❑ Is the first selective inhibitor of EGFR’s ATP-binding site;\n❑ Applications: non-small cell lung cancers (非小细胞肺癌)……\n❖ Other drugs:\n❑ EGFR kinase inhibitors (e.g., Erlotinib, 厄洛替尼);\n❑ EGFR antibodies (e.g.,\nCetuximab, 西妥昔单抗);\n❑ ErbB kinase inhibitors\n(e.g., Afatinib, 阿法替尼)\n❑ ……\nNat. Rev. Drug Discov., 2003, 2(7)",
+      "image": "sources/ch23/p095.webp"
+    },
+    {
+      "page": 96,
+      "text": "Receptor tyrosine kinase inhibitors\n❖ Target: Erb-B2 receptor tyrosine kinase 2 (HER2).\n考\n❖ Drug: Lapatinib (拉帕替尼), trade name Tykerb® (泰嘉锭):\n❑ A dual tyrosine kinase inhibitor interrupts HER2 and EGFR pathways;\n❑ Applications: HER2-positive breast cancer……\n❖ Other drugs:\n❑ Trastuzumab (曲妥珠单抗,\nHerceptin®);\n❑ Pertuzumab (帕妥珠单抗,\nPerjeta®);\n❑ ……\nLapatinib\nGenes (Basel)., 2024, 15(7)",
+      "image": "sources/ch23/p096.webp"
+    },
+    {
+      "page": 97,
+      "text": "Receptor tyrosine kinase inhibitors\n❖ Target: Vascular endothelial growth factor receptor (VEGFR).\n考\n❖ Drug: Bevacizumab (贝伐单抗), trade name Avastin® (阿瓦斯汀):\n❑ blocks angiogenesis by binding VEGF-A;\n❑ Applications: multiple cancers;\n❖ Other multi-targeted receptor tyrosine\nkinase (RTK) inhibitors that can inhibit\nVEGFR:\n❑ Sunitinib (舒尼替尼, Sutent®);\n❑ Sorafenib (索拉非尼, Nexavar®);\n❑ ……\nAnticancer Res., 2010, 30(11)",
+      "image": "sources/ch23/p097.webp"
+    },
+    {
+      "page": 98,
+      "text": "Serine/threonine kinase inhibitors\n❖ Target: B-Raf proto-oncogene (B-Raf).\n考\n❖ Drug: Encorafenib (康奈非尼), trade name Braftovi®:\n❑ Interrupts the B-Raf/MEK/ERK pathway, if B-Raf has V600 mutation;\n❑ Applications: multiple cancers……\n❖ Other drugs:\n❑ Vemurafenib (维莫非尼,\nZelboraf®);\n❑ Dabrafenib (达拉非尼,\nTafinlar®);\n❑ MEK inhibitors……\nEncorafenib\nNat. Med., 2013, 19(11)",
+      "image": "sources/ch23/p098.webp"
+    },
+    {
+      "page": 99,
+      "text": "Serine/threonine kinase inhibitors\n❖ Target: mammalian target of rapamycin (mTOR).\n考\n❖ Drug: Temsirolimus (替西罗莫司), trade name Torisel® (驮瑞塞尔):\n❑ Is a derivative and prodrug of rapamycin (Sirolimus®);\n❑ leading to cell cycle arrest in the G1 phase, and also inhibits tumor\nangiogenesis by reducing synthesis of VEGF\n❑ Applications: renal cell carcinoma……\n❖ Other drugs:\n❑ Everolimus (依维莫司,\nAfinitor®);\n❑ PI3K inhibitors……\nTemsirolimus\nCancer Lett., 2012, 319(1)",
+      "image": "sources/ch23/p099.webp"
+    },
+    {
+      "page": 100,
+      "text": "Apoptosis pathway\n❖ Programmed cell death (PCD) is a biological process that occurs when a\ncell dies as a result of internal events, such as apoptosis (凋亡) or\nautophagy (自噬).\n❖ Biochemical events of apoptosis lead to characteristic cell morphological\nchanges (include blebbing, cell shrinkage, nuclear and DNA\nfragmentation, chromatin condensation, and mRNA decay) and death.\n❖ In contrast to non-programmed necrosis, apoptosis is a highly regulated\nand controlled process that confers advantages.\n❖ Insufficient apoptosis results in uncontrolled\ncell proliferation, such as cancer.\n❖ Some factors like Fas receptors and caspases\npromote apoptosis; while some factors such as\nthe Bcl-2 family members inhibit apoptosis.\n❖ Induce apoptosis is a popular strategy for\ncancer treatment.\nQ6: How about autophagy?\nCredit @ Wikimedia Commons",
+      "image": "sources/ch23/p100.webp"
+    },
+    {
+      "page": 101,
+      "text": "Apoptosis pathway\n❖ Target: poly ADP ribose polymerase (PARP).\n考\n❖ Drug: Olaparib (奥拉帕尼), trade name Lynparza® (利普卓):\n❑ Inhibits PARP’s enzymatic activity (DNA repair);\n❑ Applications: multiple cancers……\n❖ Other drugs:\n❑ Rucaparib (卢卡帕尼,\nRubraca®);\n❑ Niraparib (尼拉帕尼,\nZejula®)；\n❑ Talazoparib (他拉唑帕尼,\nTalzenna®)……\nOlaparib\nDNA repair\nExp. Mol. Med., 2023, 55(8)",
+      "image": "sources/ch23/p101.webp"
+    },
+    {
+      "page": 102,
+      "text": "Apoptosis pathway\n❖ Target: B-cell lymphoma-2 (Bcl-2).\n考\n❖ Drug: Venetoclax (维奈克拉), trade name Venclexta® (唯可来):\n❑ Is a BH3-mimetic that blocks Bcl-2’s function;\n❑ Applications: multiple leukemia……\n❖ Other drugs (in trails):\n❑ ABT-737 and navitoclax\n(ABT-263);\n❑ Oblimersen (Genasense®)\n❑ ……\nVenetoclax\nNat. Rev. Drug Discov., 2017, 16(4)",
+      "image": "sources/ch23/p102.webp"
+    },
+    {
+      "page": 103,
+      "text": "Other targeted proteins or pathways\n❖ Target: heat shock protein 90 (Hsp90);\n❑ Drug: Geldanamycin (格尔德霉素);\n❖ Target: cyclin-dependent kinases (CDKs);\n❑ Drug: Palbociclib (哌博西利), Ribociclib (瑞博西利);\n❖ Target: anaplastic lymphoma kinase (ALK);\n❑ Drug: Crizotinib (克唑替尼);\n❖ Target: ubiquitin-proteasome system;\n❑ Drug: Bortezomib (硼替佐米);\n❖ Target: Hedgehog pathway;\n❑ Drug: Vismodegib (维莫德吉), Sonidegib (索立德吉);\n❖ Target: Janus kinase (JNK) pathway;\n❑ Drug: Ruxolitinib (鲁索替尼);\n❖ Target: Bruton's tyrosine kinase (BTK) pathway;\n❑ Drug: Ibrutinib (依鲁替尼);\n......\nQ8: How to discover a new therapeutic target?",
+      "image": "sources/ch23/p103.webp"
+    },
+    {
+      "page": 104,
+      "text": "Side effects of cancer therapy\n❖ The medications affect mainly the fast-dividing cells of the body, such as\nblood cells and the epithelium in mouth, stomach, and intestines.\n❑ Immunosuppression and myelosuppression;\n❑ Gastrointestinal distress;\n❑ Anemia;\n❑ Nausea and vomiting;\n❑ Hair loss;\n❑ Infertility;\n❑ Teratogenicity;\n❑ Cognitive impairment;\n❑ Organ damage;\n❑ ……\nhttps://news.cancerconnect.com/",
+      "image": "sources/ch23/p104.webp"
+    },
+    {
+      "page": 105,
+      "text": "Drug resistance\n❖ Biological determinants of cancer drug resistance:\n❖ Intrinsic resistance vs Acquired resistance:\nNature, 2019, 575(7782) Nat. Rev. Drug Discov., 2023, 22(3)",
+      "image": "sources/ch23/p105.webp"
+    },
+    {
+      "page": 106,
+      "text": "Combination therapy\n❖ The combination of anti-cancer drugs enhances efficacy because it\ntargets key pathways in a characteristically synergistic or an additive\nmanner. This approach potentially reduces drug resistance, while\nsimultaneously providing therapeutic benefits.\nNat. Rev. Drug\nDiscov., 2023, 22(3)",
+      "image": "sources/ch23/p106.webp"
+    },
+    {
+      "page": 109,
+      "text": "Immunotherapy\n❖ Cancer immunotherapy (immuno-oncotherapy) stimulates and improves\nthe natural ability of immune system to treat cancer;\n❖ Can be classified as two categorizes:\n❑ Active therapies (e.g., cancer vaccines, CAR-T……);\n❑ Passive therapies (e.g., cytokine therapy, checkpoint inhibition……);\nThe 1st revolution The 2nd revolution The 3rd revolution\nof cancer therapy of cancer therapy of cancer therapy\n(~1940) (~2000) (2013)\n↓ ↓ ↓\nClassic cytotoxic\nTargeted therapy Immunotherapy\ndrugs\n↓ ↓ ↓",
+      "image": "sources/ch23/p109.webp"
+    },
+    {
+      "page": 110,
+      "text": "Immunotherapy - CAR-T\n❖ Chimeric antigen receptor (CAR) are engineered receptor proteins to\ngive T cells the new ability to target a specific cancer antigen and activate\nT cell responses.\n❖ Approved: e.g., Axicabtagene ciloleucel 阿基仑赛 (Yescarta® 奕凯达).\nCredit @ Associated Press Credit @ Carl June’s Lab",
+      "image": "sources/ch23/p110.webp"
+    },
+    {
+      "page": 111,
+      "text": "Immunotherapy - checkpoint inhibition\n❖ Immune checkpoints are regulators of the immune system, they are\ncrucial for self-tolerance, which prevents the immune system from\nattacking cells indiscriminately.\n❖ Some cancers can protect themselves by stimulating immune checkpoint\ntargets → checkpoint inhibitors (e.g., Ipilimumab, 易普利单抗).\nNat. Rev. Dis. Primers, 2020, 6(1)",
+      "image": "sources/ch23/p111.webp"
+    }
+  ]
+}
